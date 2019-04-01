@@ -14,9 +14,8 @@ for key,value in dict.iteritems():
 iterar pelo json usando objeto.get('chave') para pegar valor
 '''
 # O que posso concatenar no link? per_page=100, page= , ...
-#Old AC: 94553cb22d5204f1e7da1d5f87918f5dec9ca44e
 #Access Token
-at = 'd489f3bef2401fef8d99909ac3e1aa370ed594ea'
+at = 'd489f3bef2401fef8d99909ac3e1aa370ed594ea' # You will need a new Access Token!
 dl = '&since=2015-07-17T15:00:00Z'
 def execute(user,repository,at_used):
 	global at
