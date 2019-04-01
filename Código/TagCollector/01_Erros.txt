@@ -1,0 +1,8 @@
+11 https://api.github.com/repos/tds-andre/GovBr-Transparencia/ readme, erro: 404
+13 https://api.github.com/repos/googlecode-mirror/php-gov-br/ readme, erro: 404
+20 https://api.github.com/repos/edmaraugusto/br.gov.mt.sigov/ readme, erro: 404
+20 https://api.github.com/repos/edmaraugusto/br.gov.mt.sigov/ commits, erro: 409
+22 https://api.github.com/repos/mbrasilce/SysGovBR/ readme, erro: 404
+24 https://api.github.com/repos/prodest/servicos.es.gov.br/ readme, erro: 404
+24 https://api.github.com/repos/prodest/servicos.es.gov.br/ commits, erro: 409
+28 https://api.github.com/repos/woodbine/sp_BRL048_BL_gov/ readme, erro: 404

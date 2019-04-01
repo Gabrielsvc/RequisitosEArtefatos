@@ -1,0 +1,19 @@
+{
+    "_links": {
+        "git": "https://api.github.com/repos/riquedev/DominiosGovBr.pas/git/blobs/a64c33b69bf220d8d9c69dd305a4c83636b25372", 
+        "html": "https://github.com/riquedev/DominiosGovBr.pas/blob/master/README.md", 
+        "self": "https://api.github.com/repos/riquedev/DominiosGovBr.pas/contents/README.md?ref=master"
+    }, 
+    "content": "IyBEb21pbmlvc0dvdkJyLnBhcwpJbmZvcm1hw6fDtWVzIHNvYnJlIG9zIGRv\nbcOtbmlvcyBHb3YuYnIgcmVnaXN0cmFkb3Mgbm8gIlJlZ2lzdHJvLmJyIiBl\nIGF1dG9yaXphZG9zIHBlbG8gTWluaXN0w6lyaW8gZG8gUGxhbmVqYW1lbnRv\nLgo=\n", 
+    "download_url": "https://raw.githubusercontent.com/riquedev/DominiosGovBr.pas/master/README.md", 
+    "encoding": "base64", 
+    "git_url": "https://api.github.com/repos/riquedev/DominiosGovBr.pas/git/blobs/a64c33b69bf220d8d9c69dd305a4c83636b25372", 
+    "html_url": "https://github.com/riquedev/DominiosGovBr.pas/blob/master/README.md", 
+    "name": "README.md", 
+    "path": "README.md", 
+    "sha": "a64c33b69bf220d8d9c69dd305a4c83636b25372", 
+    "size": 137, 
+    "type": "file", 
+    "url": "https://api.github.com/repos/riquedev/DominiosGovBr.pas/contents/README.md?ref=master"
+}# DominiosGovBr.pas
+Informações sobre os domínios Gov.br registrados no "Registro.br" e autorizados pelo Ministério do Planejamento.

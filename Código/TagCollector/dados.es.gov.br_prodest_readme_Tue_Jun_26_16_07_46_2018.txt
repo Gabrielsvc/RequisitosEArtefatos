@@ -1,0 +1,19 @@
+{
+    "_links": {
+        "git": "https://api.github.com/repos/prodest/dados.es.gov.br/git/blobs/97435e896a4c2f030451841017594ed6a2d8f25e", 
+        "html": "https://github.com/prodest/dados.es.gov.br/blob/master/README.md", 
+        "self": "https://api.github.com/repos/prodest/dados.es.gov.br/contents/README.md?ref=master"
+    }, 
+    "content": "IyBkYWRvcy5lcy5nb3YuYnIKUG9ydGFsIGRlIGRhZG9zIGFiZXJ0byBkbyBn\nb3Zlcm5vIGRvIEVTCg==\n", 
+    "download_url": "https://raw.githubusercontent.com/prodest/dados.es.gov.br/master/README.md", 
+    "encoding": "base64", 
+    "git_url": "https://api.github.com/repos/prodest/dados.es.gov.br/git/blobs/97435e896a4c2f030451841017594ed6a2d8f25e", 
+    "html_url": "https://github.com/prodest/dados.es.gov.br/blob/master/README.md", 
+    "name": "README.md", 
+    "path": "README.md", 
+    "sha": "97435e896a4c2f030451841017594ed6a2d8f25e", 
+    "size": 58, 
+    "type": "file", 
+    "url": "https://api.github.com/repos/prodest/dados.es.gov.br/contents/README.md?ref=master"
+}# dados.es.gov.br
+Portal de dados aberto do governo do ES

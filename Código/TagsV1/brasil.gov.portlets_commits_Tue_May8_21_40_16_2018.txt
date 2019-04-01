@@ -1,0 +1,76 @@
+	sha: 1f2f1e1c67ae7b5a9a6229ba71a90bf36923df87
+			name: hvelarde
+			email: hector.velarde@gmail.com
+			date: 2017-11-07T20:44:22Z
+			name: hvelarde
+			email: hector.velarde@gmail.com
+			date: 2017-11-07T20:44:22Z
+		message: Simplify CI by using only one build
+			sha: 8bfe20ec73c16c3b7cc800ea5f5ab3b270af8715
+			url: https://api.github.com/repos/plonegovbr/brasil.gov.portlets/git/trees/8bfe20ec73c16c3b7cc800ea5f5ab3b270af8715
+		url: https://api.github.com/repos/plonegovbr/brasil.gov.portlets/git/commits/1f2f1e1c67ae7b5a9a6229ba71a90bf36923df87
+		comment_count: 0
+			verified: True
+			reason: valid
+			signature: -----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAABAgAGBQJaAhsmAAoJEMeYHSoG0fe7CD0P/jkEI1C8Rfu+Bln95Juwd4iu
+8Nzw145RPiqK3KomcnL+FBcl4oNsTsfDtJaT+gR7FGIdQJrDrRG1sa/jfSOc3kAp
+/naAgu3xmTeTQKDvPyNSzypk15fYSdpGmBQTwm6iGZcJSiSBRRzPI0HtVC9E0sw/
+uhb/Avx2zEBtUtVm5tXzECMd1BIug1+R36c9W9PMoltNoQ3EV+1RH1b5GuFBF20K
+Rn9uLRy5BK5w+KZl/i9REpcM6DJ7v7D3YTUt7eGvmcmA1YxFH4vKurz13FdMGzb8
+QVoPCHTQJWCEH3NXSj66/bfxNCGheh4so5Icm9N5q0r907OUiM6uazPVnFAe9nq+
+vXmA+AnJ2czBJ7wneeFj5HxkWYpwkjfiAE5Ew4pqYfO3FfyiOULZibl3nZIWVaNp
+SNPZSQ6/A6RSE0gRCykWGPOFzeyMTENo6D7P8/7Ol0zbF+XL+0ckR0L2Sdmz98cZ
+NUkjg3G70boR4U46qXzIq3JfkDsmLkb8z0eltmwCv+a0XBs9FKhKNcnmB8a2SGQs
+i/sQCAlBfBkjCHvqsXismJ32fKklNByMvqK2X3OXe2Vi2QVT5X1KF40udleUVm7J
+N+WXUccC06+BFXGtKx8HDQud6216EpgU7xUKDkPUcYBTmjGQlBpzti8B7zDRCNSf
+NqWrsFoJyX/ayVnTvHJ4
+=dPpY
+-----END PGP SIGNATURE-----
+			payload: tree 8bfe20ec73c16c3b7cc800ea5f5ab3b270af8715
+parent f30ee0bb8d293662955426a615d72292a539cffb
+author hvelarde <hector.velarde@gmail.com> 1510087462 -0200
+committer hvelarde <hector.velarde@gmail.com> 1510087462 -0200
+
+Simplify CI by using only one build
+
+	url: https://api.github.com/repos/plonegovbr/brasil.gov.portlets/commits/1f2f1e1c67ae7b5a9a6229ba71a90bf36923df87
+	html_url: https://github.com/plonegovbr/brasil.gov.portlets/commit/1f2f1e1c67ae7b5a9a6229ba71a90bf36923df87
+	comments_url: https://api.github.com/repos/plonegovbr/brasil.gov.portlets/commits/1f2f1e1c67ae7b5a9a6229ba71a90bf36923df87/comments
+		login: hvelarde
+		id: 341393
+		avatar_url: https://avatars3.githubusercontent.com/u/341393?v=4
+		gravatar_id: 
+		url: https://api.github.com/users/hvelarde
+		html_url: https://github.com/hvelarde
+		followers_url: https://api.github.com/users/hvelarde/followers
+		following_url: https://api.github.com/users/hvelarde/following{/other_user}
+		gists_url: https://api.github.com/users/hvelarde/gists{/gist_id}
+		starred_url: https://api.github.com/users/hvelarde/starred{/owner}{/repo}
+		subscriptions_url: https://api.github.com/users/hvelarde/subscriptions
+		organizations_url: https://api.github.com/users/hvelarde/orgs
+		repos_url: https://api.github.com/users/hvelarde/repos
+		events_url: https://api.github.com/users/hvelarde/events{/privacy}
+		received_events_url: https://api.github.com/users/hvelarde/received_events
+		type: User
+		site_admin: False
+		login: hvelarde
+		id: 341393
+		avatar_url: https://avatars3.githubusercontent.com/u/341393?v=4
+		gravatar_id: 
+		url: https://api.github.com/users/hvelarde
+		html_url: https://github.com/hvelarde
+		followers_url: https://api.github.com/users/hvelarde/followers
+		following_url: https://api.github.com/users/hvelarde/following{/other_user}
+		gists_url: https://api.github.com/users/hvelarde/gists{/gist_id}
+		starred_url: https://api.github.com/users/hvelarde/starred{/owner}{/repo}
+		subscriptions_url: https://api.github.com/users/hvelarde/subscriptions
+		organizations_url: https://api.github.com/users/hvelarde/orgs
+		repos_url: https://api.github.com/users/hvelarde/repos
+		events_url: https://api.github.com/users/hvelarde/events{/privacy}
+		received_events_url: https://api.github.com/users/hvelarde/received_events
+		type: User
+		site_admin: False
+	parents: [{'sha': 'f30ee0bb8d293662955426a615d72292a539cffb', 'url': 'https://api.github.com/repos/plonegovbr/brasil.gov.portlets/commits/f30ee0bb8d293662955426a615d72292a539cffb', 'html_url': 'https://github.com/plonegovbr/brasil.gov.portlets/commit/f30ee0bb8d293662955426a615d72292a539cffb'}]

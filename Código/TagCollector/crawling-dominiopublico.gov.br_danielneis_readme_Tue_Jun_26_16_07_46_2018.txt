@@ -1,0 +1,29 @@
+{
+    "_links": {
+        "git": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/git/blobs/397cea53b63c8578f32c26421e14a3b08467420d", 
+        "html": "https://github.com/danielneis/crawling-dominiopublico.gov.br/blob/master/README.md", 
+        "self": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/contents/README.md?ref=master"
+    }, 
+    "content": "IyBEb3dubG9hZCBhdXRvbWF0aWNvIGRvIGFjZXJ2byBkb21pbmlvcHVibGlj\nby5nb3YuYnIKCkFxdWkgZXN0w6NvIHVtYSBzw6lyaWUgZGUgc2NyaXRzIHF1\nZSBhdXRvbWF0aXphbSBvIGRvd25sb2FkCmRvcyB2w61kZW9zIGRpc3BvbsOt\ndmVpcyBubyBwb3J0YWwgd3d3LmRvbWluaW9wdWJsaWNvLmdvdi5icgoKKiAw\nd2dldC1wYWdpbmFzZGVidXNjYS5zaCAtIGdlcmEgbyBhcnF1aXZvIDFpZHMu\ndHh0IGEgcGFydGlyIGRvIGNvbnRlw7pkbwpkYXMgMTcgcMOhZ2luYXMgcXVl\nIGxpc3RhbSBvcyB2w61kZW9zIGRpc3BvbsOtdmVpcyBubyBwb3J0YWwKKiAx\ndW5pZmljYS1lLWdlcmEtbGlua3MucGhwIC0gcmVtb3ZlIG9zIGlkcyBkdXBs\naWNhZG9zIGVuY29udHJhZG9zIApubyBhcnF1aXZvIDFpZHMudHh0IGUgaW1w\ncmltZSBhcyBVUkxzIHBhcmEgZG93bmxvYWQgZG9zIGFycXVpdm9zIC5tcDQK\nZSBkb3dubG9hZCBkYSBww6FnaW5hIGNvbSBkZXRhbGhlcyBzb2JyZSBvcyB2\nw61kZW9zCiogMndnZXQtZGV0YWxoZXMuc2ggLSBmYXogbyBkb3dubG9hZCBk\nb3MgYXJxdWl2b3MgLmh0bWwgY29tIGRldGFsaGVzIGRvcyB2w61kZW9zCiog\nMndnZXQtdmlkZW9zLnNoIC0gZmF6IGRvd25sb2FkIGRvcyBhcnF1aXZvcyBk\nb3MgdsOtZGVvcyBlbSBmb3JtYXRvIC5tcDQgCg==\n", 
+    "download_url": "https://raw.githubusercontent.com/danielneis/crawling-dominiopublico.gov.br/master/README.md", 
+    "encoding": "base64", 
+    "git_url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/git/blobs/397cea53b63c8578f32c26421e14a3b08467420d", 
+    "html_url": "https://github.com/danielneis/crawling-dominiopublico.gov.br/blob/master/README.md", 
+    "name": "README.md", 
+    "path": "README.md", 
+    "sha": "397cea53b63c8578f32c26421e14a3b08467420d", 
+    "size": 658, 
+    "type": "file", 
+    "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/contents/README.md?ref=master"
+}# Download automatico do acervo dominiopublico.gov.br
+
+Aqui estão uma série de scrits que automatizam o download
+dos vídeos disponíveis no portal www.dominiopublico.gov.br
+
+* 0wget-paginasdebusca.sh - gera o arquivo 1ids.txt a partir do conteúdo
+das 17 páginas que listam os vídeos disponíveis no portal
+* 1unifica-e-gera-links.php - remove os ids duplicados encontrados 
+no arquivo 1ids.txt e imprime as URLs para download dos arquivos .mp4
+e download da página com detalhes sobre os vídeos
+* 2wget-detalhes.sh - faz o download dos arquivos .html com detalhes dos vídeos
+* 2wget-videos.sh - faz download dos arquivos dos vídeos em formato .mp4 

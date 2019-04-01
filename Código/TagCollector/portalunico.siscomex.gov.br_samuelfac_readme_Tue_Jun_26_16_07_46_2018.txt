@@ -1,0 +1,23 @@
+{
+    "_links": {
+        "git": "https://api.github.com/repos/samuelfac/portalunico.siscomex.gov.br/git/blobs/24c7074b9bca22ea8172861b23472b0a4911f5d0", 
+        "html": "https://github.com/samuelfac/portalunico.siscomex.gov.br/blob/master/README.md", 
+        "self": "https://api.github.com/repos/samuelfac/portalunico.siscomex.gov.br/contents/README.md?ref=master"
+    }, 
+    "content": "IyBbIVtCdWlsZCBTdGF0dXNdKGh0dHBzOi8vdHJhdmlzLWNpLm9yZy9zYW11\nZWxmYWMvcG9ydGFsdW5pY28uc2lzY29tZXguZ292LmJyLnN2Zz9icmFuY2g9\nbWFzdGVyKV0oaHR0cHM6Ly90cmF2aXMtY2kub3JnL3NhbXVlbGZhYy9wb3J0\nYWx1bmljby5zaXNjb21leC5nb3YuYnIpIHBvcnRhbHVuaWNvLnNpc2NvbWV4\nLmdvdi5icgpDbGFzc2VzIGRhIEFQSSBkbyBQb3J0YWwgw5puaWNvIGRlIENv\nbcOpcmNpbyBFeHRlcmlvciwgYSBub3ZhIGZvcm1hIGRlIGludGVyYcOnw6Nv\nIGVudHJlIGFzIGVtcHJlc2FzIHByaXZhZGFzIGUgb3MgZGl2ZXJzb3Mgw7Ny\nZ8Ojb3MgcMO6YmxpY29zIGludGVydmVuaWVudGVzIG5vIGNvbcOpcmNpbyBl\neHRlcmlvci4KCkNsYXNzZXMgZ2VyYWRhcyBhIHBhcnRpciBkb3MgWFNEcyBk\naXNwb27DrXZlbCBlbSBodHRwczovL3ZhbC5wb3J0YWx1bmljby5zaXNjb21l\neC5nb3YuYnIvZG9jcy9hcGkvCgpDYXNvIHF1ZWlyYSBhcyBjbGFzc2VzIGRl\nIGludGVncmHDp8OjbywgcG9yIGZhdm9yIGVudHJlIGVtIGNvbnRhdG8gY29t\nOiAic2FtdWVsIEAgcG9udG9zaXN0ZW1zIC4gY29tIC4gYnIiIChzZW0gZXNw\nYcOnb3MpCg==\n", 
+    "download_url": "https://raw.githubusercontent.com/samuelfac/portalunico.siscomex.gov.br/master/README.md", 
+    "encoding": "base64", 
+    "git_url": "https://api.github.com/repos/samuelfac/portalunico.siscomex.gov.br/git/blobs/24c7074b9bca22ea8172861b23472b0a4911f5d0", 
+    "html_url": "https://github.com/samuelfac/portalunico.siscomex.gov.br/blob/master/README.md", 
+    "name": "README.md", 
+    "path": "README.md", 
+    "sha": "24c7074b9bca22ea8172861b23472b0a4911f5d0", 
+    "size": 592, 
+    "type": "file", 
+    "url": "https://api.github.com/repos/samuelfac/portalunico.siscomex.gov.br/contents/README.md?ref=master"
+}# [![Build Status](https://travis-ci.org/samuelfac/portalunico.siscomex.gov.br.svg?branch=master)](https://travis-ci.org/samuelfac/portalunico.siscomex.gov.br) portalunico.siscomex.gov.br
+Classes da API do Portal Único de Comércio Exterior, a nova forma de interação entre as empresas privadas e os diversos órgãos públicos intervenientes no comércio exterior.
+
+Classes geradas a partir dos XSDs disponível em https://val.portalunico.siscomex.gov.br/docs/api/
+
+Caso queira as classes de integração, por favor entre em contato com: "samuel @ pontosistems . com . br" (sem espaços)

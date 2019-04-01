@@ -1,0 +1,2446 @@
+[
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/78032791fc4adb066f2d480fd0a604183f9d5ccb/comments", 
+        "commit": {
+            "author": {
+                "date": "2016-02-09T20:39:27Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2016-02-09T20:39:27Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Atualizando dados", 
+            "tree": {
+                "sha": "aec201bbfb1fe82a438e1a8d8be13b77f1532f0c", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/aec201bbfb1fe82a438e1a8d8be13b77f1532f0c"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/78032791fc4adb066f2d480fd0a604183f9d5ccb", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/78032791fc4adb066f2d480fd0a604183f9d5ccb", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6NzgwMzI3OTFmYzRhZGIwNjZmMmQ0ODBmZDBhNjA0MTgzZjlkNWNjYg==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/b77a7610ada29d6733575a7366c71e171983de03", 
+                "sha": "b77a7610ada29d6733575a7366c71e171983de03", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/b77a7610ada29d6733575a7366c71e171983de03"
+            }
+        ], 
+        "sha": "78032791fc4adb066f2d480fd0a604183f9d5ccb", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/78032791fc4adb066f2d480fd0a604183f9d5ccb"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/b77a7610ada29d6733575a7366c71e171983de03/comments", 
+        "commit": {
+            "author": {
+                "date": "2015-02-18T20:19:27Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2015-12-20T23:37:02Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Adiciona ID, UF e Partido dos autores das proposições\n\nEsses campos foram adicionados a API da Câmara (apesar de ainda não constar na\ndocumentação do mesmo).", 
+            "tree": {
+                "sha": "1db174440272756ce7b4525ae2ce0d4edc336c4d", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/1db174440272756ce7b4525ae2ce0d4edc336c4d"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/b77a7610ada29d6733575a7366c71e171983de03", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/b77a7610ada29d6733575a7366c71e171983de03", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6Yjc3YTc2MTBhZGEyOWQ2NzMzNTc1YTczNjZjNzFlMTcxOTgzZGUwMw==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/348c936e092cdbe4d44d4ed81896708940d1f5db", 
+                "sha": "348c936e092cdbe4d44d4ed81896708940d1f5db", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/348c936e092cdbe4d44d4ed81896708940d1f5db"
+            }
+        ], 
+        "sha": "b77a7610ada29d6733575a7366c71e171983de03", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/b77a7610ada29d6733575a7366c71e171983de03"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/348c936e092cdbe4d44d4ed81896708940d1f5db/comments", 
+        "commit": {
+            "author": {
+                "date": "2015-02-18T19:58:51Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2015-12-20T23:36:49Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Corrige bug no crawling das proposições\n\nEstávamos raspando nome_proposicao_origem como sendo igual a nomeProposicao, ao\ninvés de ser igual a nomeProposicaoOrigem.", 
+            "tree": {
+                "sha": "e4f51b00a30fb74a34da6c7fefc9fb2aefa1a3d8", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/e4f51b00a30fb74a34da6c7fefc9fb2aefa1a3d8"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/348c936e092cdbe4d44d4ed81896708940d1f5db", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/348c936e092cdbe4d44d4ed81896708940d1f5db", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6MzQ4YzkzNmUwOTJjZGJlNGQ0NGQ0ZWQ4MTg5NjcwODk0MGQxZjVkYg==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/c614000c55991c40d6ed42f9578f303410169347", 
+                "sha": "c614000c55991c40d6ed42f9578f303410169347", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/c614000c55991c40d6ed42f9578f303410169347"
+            }
+        ], 
+        "sha": "348c936e092cdbe4d44d4ed81896708940d1f5db", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/348c936e092cdbe4d44d4ed81896708940d1f5db"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/c614000c55991c40d6ed42f9578f303410169347/comments", 
+        "commit": {
+            "author": {
+                "date": "2015-02-18T17:42:55Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2015-12-20T23:36:19Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Renomeia codigo -> id em proposicoes_votadas.csv\n\nA Câmara as vezes chama idProposicao e outras vezes codProposicao, mas na\nmaioria das vezes chama de id, então melhor usarmos id mesmo.\n\nCriei uma issue sobre isso em\nhttps://github.com/labhackercd/dados-abertos/issues/4", 
+            "tree": {
+                "sha": "631d91556c576aca8a3bdc52ce006e75aa534238", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/631d91556c576aca8a3bdc52ce006e75aa534238"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/c614000c55991c40d6ed42f9578f303410169347", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/c614000c55991c40d6ed42f9578f303410169347", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6YzYxNDAwMGM1NTk5MWM0MGQ2ZWQ0MmY5NTc4ZjMwMzQxMDE2OTM0Nw==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/053d4808fe5335bc16c784da9bd66bb5816ab793", 
+                "sha": "053d4808fe5335bc16c784da9bd66bb5816ab793", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/053d4808fe5335bc16c784da9bd66bb5816ab793"
+            }
+        ], 
+        "sha": "c614000c55991c40d6ed42f9578f303410169347", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/c614000c55991c40d6ed42f9578f303410169347"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/053d4808fe5335bc16c784da9bd66bb5816ab793/comments", 
+        "commit": {
+            "author": {
+                "date": "2015-09-01T20:23:27Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2015-09-01T20:23:27Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Atualizando dados", 
+            "tree": {
+                "sha": "13c2e06fbd9f8ab0d91839ee301cc5cd003f8f40", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/13c2e06fbd9f8ab0d91839ee301cc5cd003f8f40"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/053d4808fe5335bc16c784da9bd66bb5816ab793", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/053d4808fe5335bc16c784da9bd66bb5816ab793", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6MDUzZDQ4MDhmZTUzMzViYzE2Yzc4NGRhOWJkNjZiYjU4MTZhYjc5Mw==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/ed898437f89246f90846715d38da763b550b7c1b", 
+                "sha": "ed898437f89246f90846715d38da763b550b7c1b", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/ed898437f89246f90846715d38da763b550b7c1b"
+            }
+        ], 
+        "sha": "053d4808fe5335bc16c784da9bd66bb5816ab793", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/053d4808fe5335bc16c784da9bd66bb5816ab793"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/ed898437f89246f90846715d38da763b550b7c1b/comments", 
+        "commit": {
+            "author": {
+                "date": "2015-09-01T20:21:59Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2015-09-01T20:21:59Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Adiciona instruções de uso no README", 
+            "tree": {
+                "sha": "cd6602b56e0897402214166a314f4c08d988693d", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/cd6602b56e0897402214166a314f4c08d988693d"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/ed898437f89246f90846715d38da763b550b7c1b", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/ed898437f89246f90846715d38da763b550b7c1b", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6ZWQ4OTg0MzdmODkyNDZmOTA4NDY3MTVkMzhkYTc2M2I1NTBiN2MxYg==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/69ecfda29bc09029eb2fb5ad0fe87d92925892a9", 
+                "sha": "69ecfda29bc09029eb2fb5ad0fe87d92925892a9", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/69ecfda29bc09029eb2fb5ad0fe87d92925892a9"
+            }
+        ], 
+        "sha": "ed898437f89246f90846715d38da763b550b7c1b", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/ed898437f89246f90846715d38da763b550b7c1b"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/69ecfda29bc09029eb2fb5ad0fe87d92925892a9/comments", 
+        "commit": {
+            "author": {
+                "date": "2015-02-18T17:04:02Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2015-02-18T17:04:02Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Atualizando dados", 
+            "tree": {
+                "sha": "d5ea4f5baa04b366fea0618b1d0a6ef56d2843c5", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/d5ea4f5baa04b366fea0618b1d0a6ef56d2843c5"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/69ecfda29bc09029eb2fb5ad0fe87d92925892a9", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/69ecfda29bc09029eb2fb5ad0fe87d92925892a9", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6NjllY2ZkYTI5YmMwOTAyOWViMmZiNWFkMGZlODdkOTI5MjU4OTJhOQ==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/6a20fdb3f6af5116650c51d5de76503bf49ac2df", 
+                "sha": "6a20fdb3f6af5116650c51d5de76503bf49ac2df", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/6a20fdb3f6af5116650c51d5de76503bf49ac2df"
+            }
+        ], 
+        "sha": "69ecfda29bc09029eb2fb5ad0fe87d92925892a9", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/69ecfda29bc09029eb2fb5ad0fe87d92925892a9"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/6a20fdb3f6af5116650c51d5de76503bf49ac2df/comments", 
+        "commit": {
+            "author": {
+                "date": "2015-02-18T16:30:07Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2015-02-18T16:30:07Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Ordena proposicoes_votadas.csv por data", 
+            "tree": {
+                "sha": "311167b9e2fb961cda2ed40e16caa2709f74182d", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/311167b9e2fb961cda2ed40e16caa2709f74182d"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/6a20fdb3f6af5116650c51d5de76503bf49ac2df", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/6a20fdb3f6af5116650c51d5de76503bf49ac2df", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6NmEyMGZkYjNmNmFmNTExNjY1MGM1MWQ1ZGU3NjUwM2JmNDlhYzJkZg==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/e6d5924fa90dc3cec7806e2e2d4fb4150c7e16cb", 
+                "sha": "e6d5924fa90dc3cec7806e2e2d4fb4150c7e16cb", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/e6d5924fa90dc3cec7806e2e2d4fb4150c7e16cb"
+            }
+        ], 
+        "sha": "6a20fdb3f6af5116650c51d5de76503bf49ac2df", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/6a20fdb3f6af5116650c51d5de76503bf49ac2df"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/e6d5924fa90dc3cec7806e2e2d4fb4150c7e16cb/comments", 
+        "commit": {
+            "author": {
+                "date": "2015-02-18T16:28:44Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2015-02-18T16:28:44Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Converte data de votação da proposição para Date", 
+            "tree": {
+                "sha": "fb6a5b164d601a2e30e166fec76e5ee4bf36b7cf", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/fb6a5b164d601a2e30e166fec76e5ee4bf36b7cf"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/e6d5924fa90dc3cec7806e2e2d4fb4150c7e16cb", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/e6d5924fa90dc3cec7806e2e2d4fb4150c7e16cb", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6ZTZkNTkyNGZhOTBkYzNjZWM3ODA2ZTJlMmQ0ZmI0MTUwYzdlMTZjYg==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/8d9b047fdd3692f2265c813deaca63ea2b25cfd2", 
+                "sha": "8d9b047fdd3692f2265c813deaca63ea2b25cfd2", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/8d9b047fdd3692f2265c813deaca63ea2b25cfd2"
+            }
+        ], 
+        "sha": "e6d5924fa90dc3cec7806e2e2d4fb4150c7e16cb", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/e6d5924fa90dc3cec7806e2e2d4fb4150c7e16cb"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/8d9b047fdd3692f2265c813deaca63ea2b25cfd2/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-11-19T01:12:26Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-11-19T01:12:26Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Raspa dados de proposições por padrão no Makefile", 
+            "tree": {
+                "sha": "2dd908cdc02ecb2c004ac6ad23184475d84382c3", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/2dd908cdc02ecb2c004ac6ad23184475d84382c3"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/8d9b047fdd3692f2265c813deaca63ea2b25cfd2", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/8d9b047fdd3692f2265c813deaca63ea2b25cfd2", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6OGQ5YjA0N2ZkZDM2OTJmMjI2NWM4MTNkZWFjYTYzZWEyYjI1Y2ZkMg==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/edf080ea75f8463750887e25fb0c36ea0f30f5b8", 
+                "sha": "edf080ea75f8463750887e25fb0c36ea0f30f5b8", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/edf080ea75f8463750887e25fb0c36ea0f30f5b8"
+            }
+        ], 
+        "sha": "8d9b047fdd3692f2265c813deaca63ea2b25cfd2", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/8d9b047fdd3692f2265c813deaca63ea2b25cfd2"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/edf080ea75f8463750887e25fb0c36ea0f30f5b8/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-11-19T01:12:05Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-11-19T01:12:05Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Atualizando dados", 
+            "tree": {
+                "sha": "ae97427023ff16c216e533454ded949cedd770d7", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/ae97427023ff16c216e533454ded949cedd770d7"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/edf080ea75f8463750887e25fb0c36ea0f30f5b8", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/edf080ea75f8463750887e25fb0c36ea0f30f5b8", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6ZWRmMDgwZWE3NWY4NDYzNzUwODg3ZTI1ZmIwYzM2ZWEwZjMwZjViOA==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/cf1c9561108af17c242aafa5638e1f5f00dd5219", 
+                "sha": "cf1c9561108af17c242aafa5638e1f5f00dd5219", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/cf1c9561108af17c242aafa5638e1f5f00dd5219"
+            }
+        ], 
+        "sha": "edf080ea75f8463750887e25fb0c36ea0f30f5b8", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/edf080ea75f8463750887e25fb0c36ea0f30f5b8"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/cf1c9561108af17c242aafa5638e1f5f00dd5219/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-09-16T23:25:47Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-09-16T23:25:47Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Cria diretório em cada regra do Makefile ao invés de usar uma regra específica\n\nTive um problema com uma regra específica que não lembro bem. Acho que era\nrelacionada a quando a regra era re-executada.", 
+            "tree": {
+                "sha": "c42ee510605177e3613d811e5c4c64fc9f2495ae", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/c42ee510605177e3613d811e5c4c64fc9f2495ae"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/cf1c9561108af17c242aafa5638e1f5f00dd5219", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/cf1c9561108af17c242aafa5638e1f5f00dd5219", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6Y2YxYzk1NjExMDhhZjE3YzI0MmFhZmE1NjM4ZTFmNWYwMGRkNTIxOQ==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/270538476ecdc48e7cff6dece702fa4e27e2c209", 
+                "sha": "270538476ecdc48e7cff6dece702fa4e27e2c209", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/270538476ecdc48e7cff6dece702fa4e27e2c209"
+            }
+        ], 
+        "sha": "cf1c9561108af17c242aafa5638e1f5f00dd5219", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/cf1c9561108af17c242aafa5638e1f5f00dd5219"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/270538476ecdc48e7cff6dece702fa4e27e2c209/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-09-16T23:25:21Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-09-16T23:25:21Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Adiciona crawler e dados para detalhes das proposições votadas", 
+            "tree": {
+                "sha": "72888f22a070f73bd888587bbec2392ce7c5af2a", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/72888f22a070f73bd888587bbec2392ce7c5af2a"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/270538476ecdc48e7cff6dece702fa4e27e2c209", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/270538476ecdc48e7cff6dece702fa4e27e2c209", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6MjcwNTM4NDc2ZWNkYzQ4ZTdjZmY2ZGVjZTcwMmZhNGUyN2UyYzIwOQ==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/8531c726a03f8062ab77dc7cc7f186fbea5c9893", 
+                "sha": "8531c726a03f8062ab77dc7cc7f186fbea5c9893", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/8531c726a03f8062ab77dc7cc7f186fbea5c9893"
+            }
+        ], 
+        "sha": "270538476ecdc48e7cff6dece702fa4e27e2c209", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/270538476ecdc48e7cff6dece702fa4e27e2c209"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/8531c726a03f8062ab77dc7cc7f186fbea5c9893/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-09-16T17:06:55Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-09-16T17:06:55Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Renomeia ProposicaoItem -> ProposicaoVotadaItem", 
+            "tree": {
+                "sha": "f0dabfec1303ddb1144870bc22b6b43d83314039", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/f0dabfec1303ddb1144870bc22b6b43d83314039"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/8531c726a03f8062ab77dc7cc7f186fbea5c9893", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/8531c726a03f8062ab77dc7cc7f186fbea5c9893", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6ODUzMWM3MjZhMDNmODA2MmFiNzdkYzdjYzdmMTg2ZmJlYTVjOTg5Mw==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/f2af9cd7ce05261c77bc2b8de0bfa78b4eab0127", 
+                "sha": "f2af9cd7ce05261c77bc2b8de0bfa78b4eab0127", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/f2af9cd7ce05261c77bc2b8de0bfa78b4eab0127"
+            }
+        ], 
+        "sha": "8531c726a03f8062ab77dc7cc7f186fbea5c9893", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/8531c726a03f8062ab77dc7cc7f186fbea5c9893"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/f2af9cd7ce05261c77bc2b8de0bfa78b4eab0127/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-22T20:43:34Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-22T20:43:48Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Adiciona licença MIT", 
+            "tree": {
+                "sha": "b2043b4c1caa452199c4092e250183c180dce35c", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/b2043b4c1caa452199c4092e250183c180dce35c"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/f2af9cd7ce05261c77bc2b8de0bfa78b4eab0127", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/f2af9cd7ce05261c77bc2b8de0bfa78b4eab0127", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6ZjJhZjljZDdjZTA1MjYxYzc3YmMyYjhkZTBiZmE3OGI0ZWFiMDEyNw==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/2e366d14cef5ed1e7baae20cef0053e6baad64dc", 
+                "sha": "2e366d14cef5ed1e7baae20cef0053e6baad64dc", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/2e366d14cef5ed1e7baae20cef0053e6baad64dc"
+            }
+        ], 
+        "sha": "f2af9cd7ce05261c77bc2b8de0bfa78b4eab0127", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/f2af9cd7ce05261c77bc2b8de0bfa78b4eab0127"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/2e366d14cef5ed1e7baae20cef0053e6baad64dc/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-22T20:42:42Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-22T20:42:42Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Adiciona README", 
+            "tree": {
+                "sha": "356d23d857fee4f28e72590f87c6eb76f0cf2ec7", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/356d23d857fee4f28e72590f87c6eb76f0cf2ec7"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/2e366d14cef5ed1e7baae20cef0053e6baad64dc", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/2e366d14cef5ed1e7baae20cef0053e6baad64dc", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6MmUzNjZkMTRjZWY1ZWQxZTdiYWFlMjBjZWYwMDUzZTZiYWFkNjRkYw==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/2c394ff6ac6fd44a9665c490cb6031f359e40b08", 
+                "sha": "2c394ff6ac6fd44a9665c490cb6031f359e40b08", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/2c394ff6ac6fd44a9665c490cb6031f359e40b08"
+            }
+        ], 
+        "sha": "2e366d14cef5ed1e7baae20cef0053e6baad64dc", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/2e366d14cef5ed1e7baae20cef0053e6baad64dc"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/2c394ff6ac6fd44a9665c490cb6031f359e40b08/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-22T20:15:28Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-22T20:15:28Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Diminui o tamanho das votações não indentando o JSON\n\nO GitHub limita os arquivos em 100 MB, e infelizmente passamos desse valor\nindentando o JSON.\n\n\nFormer-commit-id: 554c506aa068243a403d53e2b70d90bf99981632", 
+            "tree": {
+                "sha": "5579a916db1a7bd6546130d0c6756a242be2b107", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/5579a916db1a7bd6546130d0c6756a242be2b107"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/2c394ff6ac6fd44a9665c490cb6031f359e40b08", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/2c394ff6ac6fd44a9665c490cb6031f359e40b08", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6MmMzOTRmZjZhYzZmZDQ0YTk2NjVjNDkwY2I2MDMxZjM1OWU0MGIwOA==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/ecb338a3709882701c34dd764067e3efe740a2fc", 
+                "sha": "ecb338a3709882701c34dd764067e3efe740a2fc", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/ecb338a3709882701c34dd764067e3efe740a2fc"
+            }
+        ], 
+        "sha": "2c394ff6ac6fd44a9665c490cb6031f359e40b08", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/2c394ff6ac6fd44a9665c490cb6031f359e40b08"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/ecb338a3709882701c34dd764067e3efe740a2fc/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-22T19:59:21Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-22T19:59:21Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Adiciona requirements.txt\n\nNo requirements.txt, explicito todas as dependências e versões com as quais\ntestei o software (pip freeze > requirements.txt), já no requirements.in só\nadicionei dependências diretos, assim facilita caso queira atualizar alguma\nno futuro.\n\n\nFormer-commit-id: fedade51c7cc02533f49d26a4654ad9936648767", 
+            "tree": {
+                "sha": "36075148a56afd0846782123a3b770b241526fb6", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/36075148a56afd0846782123a3b770b241526fb6"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/ecb338a3709882701c34dd764067e3efe740a2fc", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/ecb338a3709882701c34dd764067e3efe740a2fc", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6ZWNiMzM4YTM3MDk4ODI3MDFjMzRkZDc2NDA2N2UzZWZlNzQwYTJmYw==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/2bea427234ebcb2b7360cc8415e94f68a20c221e", 
+                "sha": "2bea427234ebcb2b7360cc8415e94f68a20c221e", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/2bea427234ebcb2b7360cc8415e94f68a20c221e"
+            }
+        ], 
+        "sha": "ecb338a3709882701c34dd764067e3efe740a2fc", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/ecb338a3709882701c34dd764067e3efe740a2fc"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/2bea427234ebcb2b7360cc8415e94f68a20c221e/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-22T19:55:10Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-22T19:55:10Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Remove arquivos antes se rodar o scrapy\n\nInfelizmente, o scrapy não suporta adições parciais, então ao executar duas\nvezes ele simplesmente adiciona ao arquivo já existente. Para evitar isto,\nremovemos os arquivos antes de executar o scrapy.\n\n\nFormer-commit-id: 95a00b532374327563c3111ee9cb73d16ce8e85e", 
+            "tree": {
+                "sha": "1965eaceaa8d4cf678e22ec90d9527907eb10e85", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/1965eaceaa8d4cf678e22ec90d9527907eb10e85"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/2bea427234ebcb2b7360cc8415e94f68a20c221e", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/2bea427234ebcb2b7360cc8415e94f68a20c221e", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6MmJlYTQyNzIzNGViY2IyYjczNjBjYzg0MTVlOTRmNjhhMjBjMjIxZQ==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/2b616687955ba76bfb0d0d9435e100f2f88c2289", 
+                "sha": "2b616687955ba76bfb0d0d9435e100f2f88c2289", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/2b616687955ba76bfb0d0d9435e100f2f88c2289"
+            }
+        ], 
+        "sha": "2bea427234ebcb2b7360cc8415e94f68a20c221e", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/2bea427234ebcb2b7360cc8415e94f68a20c221e"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/2b616687955ba76bfb0d0d9435e100f2f88c2289/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-21T20:42:21Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-21T20:42:21Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Adiciona JSON com dump de todas votações de proposições\n\nA lista de proposições votadas veio de data/proposicoes_votadas.csv\n\n\nFormer-commit-id: 68a290ab16b83bb426ecef038ba4b24f1ae34fd3", 
+            "tree": {
+                "sha": "74c5e117f8338609fe833800b062a9ebabb47aa8", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/74c5e117f8338609fe833800b062a9ebabb47aa8"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/2b616687955ba76bfb0d0d9435e100f2f88c2289", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/2b616687955ba76bfb0d0d9435e100f2f88c2289", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6MmI2MTY2ODc5NTViYTc2YmZiMGQwZDk0MzVlMTAwZjJmODhjMjI4OQ==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/a8146f9f9ae8b5407f496952395ce69516f1a7b2", 
+                "sha": "a8146f9f9ae8b5407f496952395ce69516f1a7b2", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/a8146f9f9ae8b5407f496952395ce69516f1a7b2"
+            }
+        ], 
+        "sha": "2b616687955ba76bfb0d0d9435e100f2f88c2289", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/2b616687955ba76bfb0d0d9435e100f2f88c2289"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/a8146f9f9ae8b5407f496952395ce69516f1a7b2/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-21T20:36:34Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-21T20:37:07Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Ignora JOBDIR do Scrapy\n\nPor convenção, o JOBDIR é ./crawls", 
+            "tree": {
+                "sha": "101964a87794480056f06e26e15f3043b9241a2d", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/101964a87794480056f06e26e15f3043b9241a2d"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/a8146f9f9ae8b5407f496952395ce69516f1a7b2", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/a8146f9f9ae8b5407f496952395ce69516f1a7b2", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6YTgxNDZmOWY5YWU4YjU0MDdmNDk2OTUyMzk1Y2U2OTUxNmYxYTdiMg==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/354703924623ba86b2c24967b4a934f3aae09fc8", 
+                "sha": "354703924623ba86b2c24967b4a934f3aae09fc8", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/354703924623ba86b2c24967b4a934f3aae09fc8"
+            }
+        ], 
+        "sha": "a8146f9f9ae8b5407f496952395ce69516f1a7b2", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/a8146f9f9ae8b5407f496952395ce69516f1a7b2"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/354703924623ba86b2c24967b4a934f3aae09fc8/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-21T20:25:59Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-21T20:27:52Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Ordena e formata JSON ao exportar\n\nPrecisávamos ordenar para garantir que o JSON sempre será o mesmo, caso os\ndados se mantenham constantes. Formatei só porque torna os diffs muito mais\nlegíveis, apesar de quase dobrar o tamanho do arquivo.", 
+            "tree": {
+                "sha": "fa16e4a84663cd1960e5505cef00dd16a33c208a", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/fa16e4a84663cd1960e5505cef00dd16a33c208a"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/354703924623ba86b2c24967b4a934f3aae09fc8", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/354703924623ba86b2c24967b4a934f3aae09fc8", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6MzU0NzAzOTI0NjIzYmE4NmIyYzI0OTY3YjRhOTM0ZjNhYWUwOWZjOA==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/22c33b7a6be284c6b30b4935bc79667447e63a6d", 
+                "sha": "22c33b7a6be284c6b30b4935bc79667447e63a6d", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/22c33b7a6be284c6b30b4935bc79667447e63a6d"
+            }
+        ], 
+        "sha": "354703924623ba86b2c24967b4a934f3aae09fc8", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/354703924623ba86b2c24967b4a934f3aae09fc8"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/22c33b7a6be284c6b30b4935bc79667447e63a6d/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-21T19:28:03Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-21T19:28:03Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Corrige erros com atributos opcionais nas votações", 
+            "tree": {
+                "sha": "10472a294343fb50367e26458c66bab48b90ca30", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/10472a294343fb50367e26458c66bab48b90ca30"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/22c33b7a6be284c6b30b4935bc79667447e63a6d", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/22c33b7a6be284c6b30b4935bc79667447e63a6d", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6MjJjMzNiN2E2YmUyODRjNmIzMGI0OTM1YmM3OTY2NzQ0N2U2M2E2ZA==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/9ca4862727fc7525b80787d8d72a57ee078b8dea", 
+                "sha": "9ca4862727fc7525b80787d8d72a57ee078b8dea", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/9ca4862727fc7525b80787d8d72a57ee078b8dea"
+            }
+        ], 
+        "sha": "22c33b7a6be284c6b30b4935bc79667447e63a6d", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/22c33b7a6be284c6b30b4935bc79667447e63a6d"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/9ca4862727fc7525b80787d8d72a57ee078b8dea/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-21T19:27:21Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-21T19:27:52Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Carrega votações da lista de proposições votadas e ativa caching", 
+            "tree": {
+                "sha": "4b3e7261b1e8f398d62b4677b75821b951f6760d", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/4b3e7261b1e8f398d62b4677b75821b951f6760d"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/9ca4862727fc7525b80787d8d72a57ee078b8dea", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/9ca4862727fc7525b80787d8d72a57ee078b8dea", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6OWNhNDg2MjcyN2ZjNzUyNWI4MDc4N2Q4ZDcyYTU3ZWUwNzhiOGRlYQ==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/a45e481633759cf1609b751bc7672041994e3661", 
+                "sha": "a45e481633759cf1609b751bc7672041994e3661", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/a45e481633759cf1609b751bc7672041994e3661"
+            }
+        ], 
+        "sha": "9ca4862727fc7525b80787d8d72a57ee078b8dea", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/9ca4862727fc7525b80787d8d72a57ee078b8dea"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/a45e481633759cf1609b751bc7672041994e3661/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-21T16:25:49Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-21T16:25:49Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Adiciona spider para obter votações em proposições", 
+            "tree": {
+                "sha": "41e472100b3f61646ff063f4cd597dd8be4d0f4c", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/41e472100b3f61646ff063f4cd597dd8be4d0f4c"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/a45e481633759cf1609b751bc7672041994e3661", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/a45e481633759cf1609b751bc7672041994e3661", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6YTQ1ZTQ4MTYzMzc1OWNmMTYwOWI3NTFiYzc2NzIwNDE5OTRlMzY2MQ==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/1a60aa9405fd8da0573995135e18b71031d3e270", 
+                "sha": "1a60aa9405fd8da0573995135e18b71031d3e270", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/1a60aa9405fd8da0573995135e18b71031d3e270"
+            }
+        ], 
+        "sha": "a45e481633759cf1609b751bc7672041994e3661", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/a45e481633759cf1609b751bc7672041994e3661"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/1a60aa9405fd8da0573995135e18b71031d3e270/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-21T03:52:27Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-21T03:52:27Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Faz com que \"make\" só execute caso não haja proposicoes_votadas.csv", 
+            "tree": {
+                "sha": "bd1cf534b08f1744a96d65a7583840e2b2c6c953", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/bd1cf534b08f1744a96d65a7583840e2b2c6c953"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/1a60aa9405fd8da0573995135e18b71031d3e270", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/1a60aa9405fd8da0573995135e18b71031d3e270", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6MWE2MGFhOTQwNWZkOGRhMDU3Mzk5NTEzNWUxOGI3MTAzMWQzZTI3MA==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/42969ece908ebfee468bb99652b61c803833ce0d", 
+                "sha": "42969ece908ebfee468bb99652b61c803833ce0d", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/42969ece908ebfee468bb99652b61c803833ce0d"
+            }
+        ], 
+        "sha": "1a60aa9405fd8da0573995135e18b71031d3e270", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/1a60aa9405fd8da0573995135e18b71031d3e270"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/42969ece908ebfee468bb99652b61c803833ce0d/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-21T03:38:44Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-21T03:38:44Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "PEP8", 
+            "tree": {
+                "sha": "a42181044bb7d8f3c6ce7f4d67b1419a3f24aaf5", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/a42181044bb7d8f3c6ce7f4d67b1419a3f24aaf5"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/42969ece908ebfee468bb99652b61c803833ce0d", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/42969ece908ebfee468bb99652b61c803833ce0d", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6NDI5NjllY2U5MDhlYmZlZTQ2OGJiOTk2NTJiNjFjODAzODMzY2UwZA==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/8aa316660e241ac0d0fb543b8c76326c12791145", 
+                "sha": "8aa316660e241ac0d0fb543b8c76326c12791145", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/8aa316660e241ac0d0fb543b8c76326c12791145"
+            }
+        ], 
+        "sha": "42969ece908ebfee468bb99652b61c803833ce0d", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/42969ece908ebfee468bb99652b61c803833ce0d"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/8aa316660e241ac0d0fb543b8c76326c12791145/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-21T03:36:33Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-21T03:36:33Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Adiciona dump de lista de proposições votadas", 
+            "tree": {
+                "sha": "57581db9b0049c2d893d6b40f1a558863e40abe2", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/57581db9b0049c2d893d6b40f1a558863e40abe2"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/8aa316660e241ac0d0fb543b8c76326c12791145", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/8aa316660e241ac0d0fb543b8c76326c12791145", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6OGFhMzE2NjYwZTI0MWFjMGQwZmI1NDNiOGM3NjMyNmMxMjc5MTE0NQ==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/85745c38a9715945286820f59b09693ba250b2f3", 
+                "sha": "85745c38a9715945286820f59b09693ba250b2f3", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/85745c38a9715945286820f59b09693ba250b2f3"
+            }
+        ], 
+        "sha": "8aa316660e241ac0d0fb543b8c76326c12791145", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/8aa316660e241ac0d0fb543b8c76326c12791145"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/85745c38a9715945286820f59b09693ba250b2f3/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-21T03:36:07Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-21T03:36:07Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Remove duplicados e ordena lista de proposições votadas", 
+            "tree": {
+                "sha": "86eaa5fa39db0a4b45cdda285c8dddd68c49a846", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/86eaa5fa39db0a4b45cdda285c8dddd68c49a846"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/85745c38a9715945286820f59b09693ba250b2f3", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/85745c38a9715945286820f59b09693ba250b2f3", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6ODU3NDVjMzhhOTcxNTk0NTI4NjgyMGY1OWIwOTY5M2JhMjUwYjJmMw==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/2c95a2d886d5f531d18f2c8baff55c3e529ff27f", 
+                "sha": "2c95a2d886d5f531d18f2c8baff55c3e529ff27f", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/2c95a2d886d5f531d18f2c8baff55c3e529ff27f"
+            }
+        ], 
+        "sha": "85745c38a9715945286820f59b09693ba250b2f3", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/85745c38a9715945286820f59b09693ba250b2f3"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/2c95a2d886d5f531d18f2c8baff55c3e529ff27f/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-21T02:20:47Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-21T02:20:47Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Gera dump de ListarProposicoesVotadasEmPlenario", 
+            "tree": {
+                "sha": "5b58bad89988cba398b7b9b38a465c530f4b7218", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/5b58bad89988cba398b7b9b38a465c530f4b7218"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/2c95a2d886d5f531d18f2c8baff55c3e529ff27f", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/2c95a2d886d5f531d18f2c8baff55c3e529ff27f", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6MmM5NWEyZDg4NmQ1ZjUzMWQxOGYyYzhiYWZmNTVjM2U1MjlmZjI3Zg==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/3bda76042aae83fa1d418f9ff429ce19bd0a32ce", 
+                "sha": "3bda76042aae83fa1d418f9ff429ce19bd0a32ce", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/3bda76042aae83fa1d418f9ff429ce19bd0a32ce"
+            }
+        ], 
+        "sha": "2c95a2d886d5f531d18f2c8baff55c3e529ff27f", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/2c95a2d886d5f531d18f2c8baff55c3e529ff27f"
+    }
+][
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "comments_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/3bda76042aae83fa1d418f9ff429ce19bd0a32ce/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-21T00:03:51Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-21T00:03:51Z", 
+                "email": "vitor@vitorbaptista.com", 
+                "name": "Vitor Baptista"
+            }, 
+            "message": "Initial commit\n\nscrapy startproject camaragovbr", 
+            "tree": {
+                "sha": "15abd325e7f26efc84928030edde33f6aff73ac6", 
+                "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/trees/15abd325e7f26efc84928030edde33f6aff73ac6"
+            }, 
+            "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/commits/3bda76042aae83fa1d418f9ff429ce19bd0a32ce", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/76945?v=4", 
+            "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/vitorbaptista/followers", 
+            "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/vitorbaptista", 
+            "id": 76945, 
+            "login": "vitorbaptista", 
+            "node_id": "MDQ6VXNlcjc2OTQ1", 
+            "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+            "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+            "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/vitorbaptista"
+        }, 
+        "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/commit/3bda76042aae83fa1d418f9ff429ce19bd0a32ce", 
+        "node_id": "MDY6Q29tbWl0MjMyMzc5OTM6M2JkYTc2MDQyYWFlODNmYTFkNDE4ZjlmZjQyOWNlMTliZDBhMzJjZQ==", 
+        "parents": [], 
+        "sha": "3bda76042aae83fa1d418f9ff429ce19bd0a32ce", 
+        "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/commits/3bda76042aae83fa1d418f9ff429ce19bd0a32ce"
+    }
+]

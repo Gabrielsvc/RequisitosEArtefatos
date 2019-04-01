@@ -1,0 +1,19 @@
+{
+    "_links": {
+        "git": "https://api.github.com/repos/bacanapps/www.aids.gov.br/git/blobs/18f036e09b0d442eb70ad7cd11a9fa7ab7fdc6c5", 
+        "html": "https://github.com/bacanapps/www.aids.gov.br/blob/master/README.md", 
+        "self": "https://api.github.com/repos/bacanapps/www.aids.gov.br/contents/README.md?ref=master"
+    }, 
+    "content": "d3d3LmFpZHMuZ292LmJyCj09PT09PT09PT09PT09PQo=\n", 
+    "download_url": "https://raw.githubusercontent.com/bacanapps/www.aids.gov.br/master/README.md", 
+    "encoding": "base64", 
+    "git_url": "https://api.github.com/repos/bacanapps/www.aids.gov.br/git/blobs/18f036e09b0d442eb70ad7cd11a9fa7ab7fdc6c5", 
+    "html_url": "https://github.com/bacanapps/www.aids.gov.br/blob/master/README.md", 
+    "name": "README.md", 
+    "path": "README.md", 
+    "sha": "18f036e09b0d442eb70ad7cd11a9fa7ab7fdc6c5", 
+    "size": 32, 
+    "type": "file", 
+    "url": "https://api.github.com/repos/bacanapps/www.aids.gov.br/contents/README.md?ref=master"
+}www.aids.gov.br
+===============

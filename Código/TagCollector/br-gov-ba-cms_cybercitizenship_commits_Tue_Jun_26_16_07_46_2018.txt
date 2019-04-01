@@ -1,0 +1,1112 @@
+[
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/26132?v=4", 
+            "events_url": "https://api.github.com/users/felipebastosweb/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/felipebastosweb/followers", 
+            "following_url": "https://api.github.com/users/felipebastosweb/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/felipebastosweb/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/felipebastosweb", 
+            "id": 26132, 
+            "login": "felipebastosweb", 
+            "node_id": "MDQ6VXNlcjI2MTMy", 
+            "organizations_url": "https://api.github.com/users/felipebastosweb/orgs", 
+            "received_events_url": "https://api.github.com/users/felipebastosweb/received_events", 
+            "repos_url": "https://api.github.com/users/felipebastosweb/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/felipebastosweb/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/felipebastosweb/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/felipebastosweb"
+        }, 
+        "comments_url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/66219c50806f116bfe08a9e17b9f4d643336d1e6/comments", 
+        "commit": {
+            "author": {
+                "date": "2018-01-27T21:22:53Z", 
+                "email": "felipebastosweb@gmail.com", 
+                "name": "felipe bastos"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2018-01-27T21:22:53Z", 
+                "email": "noreply@github.com", 
+                "name": "GitHub"
+            }, 
+            "message": "Update councilmen-list.py", 
+            "tree": {
+                "sha": "6eb8327d7ddb424566f84afcea4dad085ad5ad8c", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/trees/6eb8327d7ddb424566f84afcea4dad085ad5ad8c"
+            }, 
+            "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/commits/66219c50806f116bfe08a9e17b9f4d643336d1e6", 
+            "verification": {
+                "payload": "tree 6eb8327d7ddb424566f84afcea4dad085ad5ad8c\nparent bbcadb92bdaa2885d85db21079744ae695692598\nauthor felipe bastos <felipebastosweb@gmail.com> 1517088173 -0300\ncommitter GitHub <noreply@github.com> 1517088173 -0300\n\nUpdate councilmen-list.py", 
+                "reason": "valid", 
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJabO2tCRBK7hj4Ov3rIwAAdHIIAE0Dv8DinVsUapdbPSCis69n\nOBGkGJfAanP6lF2bcA53ZMsQnZWyPg1MY+poe2bS5oVNuw/lrNoa2mtss8+0DIUx\neek2z+I9xJUIdfgwj79eyjSvWEfm7L+ihWDQM78JQSrcSfimisy54QwdGV/Z/sHa\ncZM/yFDc+RwiuBYXSH5xNuUN9xMdgImYVv6l014+0XD2tFjtPU4jxtU+o9Us3UQe\n0eXfzZOFeFQ458rRKEG4+fqoaw8aFQwrGV0pQlFHE0JfKeTujvm9zhUqG8F7ou6u\nFPk3fgCgyIIgkVGr+qCWXa+CDGYptpjiNX8qu4br7KbTeGKa0f727MyCwst4rKg=\n=Ho/K\n-----END PGP SIGNATURE-----\n", 
+                "verified": true
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4", 
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/web-flow/followers", 
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/web-flow", 
+            "id": 19864447, 
+            "login": "web-flow", 
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3", 
+            "organizations_url": "https://api.github.com/users/web-flow/orgs", 
+            "received_events_url": "https://api.github.com/users/web-flow/received_events", 
+            "repos_url": "https://api.github.com/users/web-flow/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/web-flow"
+        }, 
+        "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/66219c50806f116bfe08a9e17b9f4d643336d1e6", 
+        "node_id": "MDY6Q29tbWl0MTE1Mjg1NDAxOjY2MjE5YzUwODA2ZjExNmJmZTA4YTllMTdiOWY0ZDY0MzMzNmQxZTY=", 
+        "parents": [
+            {
+                "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/bbcadb92bdaa2885d85db21079744ae695692598", 
+                "sha": "bbcadb92bdaa2885d85db21079744ae695692598", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/bbcadb92bdaa2885d85db21079744ae695692598"
+            }
+        ], 
+        "sha": "66219c50806f116bfe08a9e17b9f4d643336d1e6", 
+        "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/66219c50806f116bfe08a9e17b9f4d643336d1e6"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/26132?v=4", 
+            "events_url": "https://api.github.com/users/felipebastosweb/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/felipebastosweb/followers", 
+            "following_url": "https://api.github.com/users/felipebastosweb/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/felipebastosweb/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/felipebastosweb", 
+            "id": 26132, 
+            "login": "felipebastosweb", 
+            "node_id": "MDQ6VXNlcjI2MTMy", 
+            "organizations_url": "https://api.github.com/users/felipebastosweb/orgs", 
+            "received_events_url": "https://api.github.com/users/felipebastosweb/received_events", 
+            "repos_url": "https://api.github.com/users/felipebastosweb/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/felipebastosweb/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/felipebastosweb/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/felipebastosweb"
+        }, 
+        "comments_url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/bbcadb92bdaa2885d85db21079744ae695692598/comments", 
+        "commit": {
+            "author": {
+                "date": "2018-01-27T21:19:31Z", 
+                "email": "felipebastosweb@gmail.com", 
+                "name": "felipe bastos"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2018-01-27T21:19:31Z", 
+                "email": "noreply@github.com", 
+                "name": "GitHub"
+            }, 
+            "message": "Merge pull request #3 from cybercitizenship/lib-requests\n\nLib requests compatible change", 
+            "tree": {
+                "sha": "ad13e7c150c5a36abb553e13e596dea61323d3d1", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/trees/ad13e7c150c5a36abb553e13e596dea61323d3d1"
+            }, 
+            "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/commits/bbcadb92bdaa2885d85db21079744ae695692598", 
+            "verification": {
+                "payload": "tree ad13e7c150c5a36abb553e13e596dea61323d3d1\nparent b0b89b722da4ae7c3fddd49c9fc17bdd8d06d8a7\nparent 460f610037eaa1eef2183e8aecf9da197e15b2e8\nauthor felipe bastos <felipebastosweb@gmail.com> 1517087971 -0300\ncommitter GitHub <noreply@github.com> 1517087971 -0300\n\nMerge pull request #3 from cybercitizenship/lib-requests\n\nLib requests compatible change", 
+                "reason": "valid", 
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJabOzjCRBK7hj4Ov3rIwAAdHIIADr9aPGOUORI6p+cOgI/Jk7+\n2sYBCC5S5rIYSF8DVeNVLr5aAwCYvlos69cqsAesMiXdJpy/Q3A69MFmjRdbjU9c\nQII/t27/wcuI6aHuLX0To1LsYVejUKosJXUy/ahaQMIU5YMQgcCm2YStz0zZHAIG\noXQh4lum4VhbPHSR6i2/tknMpbXLM+a7lFId42hjB+NpbFV8fI8HaVsGffmAcJuX\nDguFMmVp8/CYy8lYNrxQcmO4W3Zf2xZ3CQOuJKTvG/lxI67scJZVUVifSyHStc5u\n73/X7FX5hXBBbP/xL1ppC56A6v1/Ps2DBxD1faHK4+ndZoUrc9HsidUgJvFTv0Y=\n=Zwh1\n-----END PGP SIGNATURE-----\n", 
+                "verified": true
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4", 
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/web-flow/followers", 
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/web-flow", 
+            "id": 19864447, 
+            "login": "web-flow", 
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3", 
+            "organizations_url": "https://api.github.com/users/web-flow/orgs", 
+            "received_events_url": "https://api.github.com/users/web-flow/received_events", 
+            "repos_url": "https://api.github.com/users/web-flow/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/web-flow"
+        }, 
+        "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/bbcadb92bdaa2885d85db21079744ae695692598", 
+        "node_id": "MDY6Q29tbWl0MTE1Mjg1NDAxOmJiY2FkYjkyYmRhYTI4ODVkODVkYjIxMDc5NzQ0YWU2OTU2OTI1OTg=", 
+        "parents": [
+            {
+                "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/b0b89b722da4ae7c3fddd49c9fc17bdd8d06d8a7", 
+                "sha": "b0b89b722da4ae7c3fddd49c9fc17bdd8d06d8a7", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/b0b89b722da4ae7c3fddd49c9fc17bdd8d06d8a7"
+            }, 
+            {
+                "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/460f610037eaa1eef2183e8aecf9da197e15b2e8", 
+                "sha": "460f610037eaa1eef2183e8aecf9da197e15b2e8", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/460f610037eaa1eef2183e8aecf9da197e15b2e8"
+            }
+        ], 
+        "sha": "bbcadb92bdaa2885d85db21079744ae695692598", 
+        "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/bbcadb92bdaa2885d85db21079744ae695692598"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/26132?v=4", 
+            "events_url": "https://api.github.com/users/felipebastosweb/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/felipebastosweb/followers", 
+            "following_url": "https://api.github.com/users/felipebastosweb/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/felipebastosweb/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/felipebastosweb", 
+            "id": 26132, 
+            "login": "felipebastosweb", 
+            "node_id": "MDQ6VXNlcjI2MTMy", 
+            "organizations_url": "https://api.github.com/users/felipebastosweb/orgs", 
+            "received_events_url": "https://api.github.com/users/felipebastosweb/received_events", 
+            "repos_url": "https://api.github.com/users/felipebastosweb/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/felipebastosweb/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/felipebastosweb/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/felipebastosweb"
+        }, 
+        "comments_url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/460f610037eaa1eef2183e8aecf9da197e15b2e8/comments", 
+        "commit": {
+            "author": {
+                "date": "2018-01-27T21:16:16Z", 
+                "email": "felipebastosweb@gmail.com", 
+                "name": "felipe bastos"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2018-01-27T21:16:16Z", 
+                "email": "noreply@github.com", 
+                "name": "GitHub"
+            }, 
+            "message": "Update councilmen-list.py", 
+            "tree": {
+                "sha": "ad13e7c150c5a36abb553e13e596dea61323d3d1", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/trees/ad13e7c150c5a36abb553e13e596dea61323d3d1"
+            }, 
+            "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/commits/460f610037eaa1eef2183e8aecf9da197e15b2e8", 
+            "verification": {
+                "payload": "tree ad13e7c150c5a36abb553e13e596dea61323d3d1\nparent e23d129c27798f1d3fac8dfa408c7be7fb758efe\nauthor felipe bastos <felipebastosweb@gmail.com> 1517087776 -0300\ncommitter GitHub <noreply@github.com> 1517087776 -0300\n\nUpdate councilmen-list.py", 
+                "reason": "valid", 
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJabOwgCRBK7hj4Ov3rIwAAdHIIADPhTG+0g85yQVAIUsofH7zU\nY9FFPC6ytYbBeU6J7oM6OMBo+ceFT0Ejkg/Cxjs2C+tIDYlputBcKaX+7RJFNjyI\nHMdiu5nToPVlDkudjs7hvEsE9hHb08OmRyS60DNXPRlgmg4u/RMG+25vRu4bVYaD\n1ZhgUg55KEaHxZeH9tcR9BrqANFByycuLo3so00Ul5h7AGjoIoYhf13nFaKVLwxm\nm4veZQ6eTEzaMboYSc5ehtRGE/eVokxsymFGkHyeeevEVwsBq+/jVCpUD52+Z1do\nYBGtJBt59/tHS4QjcXOjR21nxys0Nwfpn0Q1K6AZZ74/ZKVqERdZt8OvS2glY+E=\n=6y7e\n-----END PGP SIGNATURE-----\n", 
+                "verified": true
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4", 
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/web-flow/followers", 
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/web-flow", 
+            "id": 19864447, 
+            "login": "web-flow", 
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3", 
+            "organizations_url": "https://api.github.com/users/web-flow/orgs", 
+            "received_events_url": "https://api.github.com/users/web-flow/received_events", 
+            "repos_url": "https://api.github.com/users/web-flow/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/web-flow"
+        }, 
+        "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/460f610037eaa1eef2183e8aecf9da197e15b2e8", 
+        "node_id": "MDY6Q29tbWl0MTE1Mjg1NDAxOjQ2MGY2MTAwMzdlYWExZWVmMjE4M2U4YWVjZjlkYTE5N2UxNWIyZTg=", 
+        "parents": [
+            {
+                "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/e23d129c27798f1d3fac8dfa408c7be7fb758efe", 
+                "sha": "e23d129c27798f1d3fac8dfa408c7be7fb758efe", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/e23d129c27798f1d3fac8dfa408c7be7fb758efe"
+            }
+        ], 
+        "sha": "460f610037eaa1eef2183e8aecf9da197e15b2e8", 
+        "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/460f610037eaa1eef2183e8aecf9da197e15b2e8"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/26132?v=4", 
+            "events_url": "https://api.github.com/users/felipebastosweb/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/felipebastosweb/followers", 
+            "following_url": "https://api.github.com/users/felipebastosweb/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/felipebastosweb/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/felipebastosweb", 
+            "id": 26132, 
+            "login": "felipebastosweb", 
+            "node_id": "MDQ6VXNlcjI2MTMy", 
+            "organizations_url": "https://api.github.com/users/felipebastosweb/orgs", 
+            "received_events_url": "https://api.github.com/users/felipebastosweb/received_events", 
+            "repos_url": "https://api.github.com/users/felipebastosweb/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/felipebastosweb/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/felipebastosweb/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/felipebastosweb"
+        }, 
+        "comments_url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/e23d129c27798f1d3fac8dfa408c7be7fb758efe/comments", 
+        "commit": {
+            "author": {
+                "date": "2018-01-27T21:11:36Z", 
+                "email": "felipebastosweb@gmail.com", 
+                "name": "felipe bastos"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2018-01-27T21:11:36Z", 
+                "email": "noreply@github.com", 
+                "name": "GitHub"
+            }, 
+            "message": "Update councilmen-list.py", 
+            "tree": {
+                "sha": "dfc89b033fbbd52b93697434c2cc4828601848ab", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/trees/dfc89b033fbbd52b93697434c2cc4828601848ab"
+            }, 
+            "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/commits/e23d129c27798f1d3fac8dfa408c7be7fb758efe", 
+            "verification": {
+                "payload": "tree dfc89b033fbbd52b93697434c2cc4828601848ab\nparent e0044d0a7b38d18ac3a4dd2b7ba503cd55e3a84a\nauthor felipe bastos <felipebastosweb@gmail.com> 1517087496 -0300\ncommitter GitHub <noreply@github.com> 1517087496 -0300\n\nUpdate councilmen-list.py", 
+                "reason": "valid", 
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJabOsICRBK7hj4Ov3rIwAAdHIIAFqdY7XrNkJZBFBYodhPG0wd\n+Hmmpc9fOIVt2TwLizm/7IfKA2QBVkQFDh7rEXVDsl3jOxDXPIInMuqWsmkPKAS2\nHpLtivmlSQEa0Xb8WgVim789X9O2msemcWfNuVNfqrK8IYwOa7eO2SsB3aVPYk7w\ngh/nEmILRGEW7Ytac+k4hyDERtLYSqpko0VvLLt1NOfskAW+HpQdLKiZBVEhavkl\nKKpBmRuioBTrKZcYE+AQwAVcm813AJe4+DmVqh3ganOs6CSv/mF+4NiXoZInuIjf\nCSQEWzbb/qAiR2RDCpUzjxnnZQsYhALjZD0d4R0d3al9Z9gTKE9X0NQhQ8YuL1w=\n=179Q\n-----END PGP SIGNATURE-----\n", 
+                "verified": true
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4", 
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/web-flow/followers", 
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/web-flow", 
+            "id": 19864447, 
+            "login": "web-flow", 
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3", 
+            "organizations_url": "https://api.github.com/users/web-flow/orgs", 
+            "received_events_url": "https://api.github.com/users/web-flow/received_events", 
+            "repos_url": "https://api.github.com/users/web-flow/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/web-flow"
+        }, 
+        "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/e23d129c27798f1d3fac8dfa408c7be7fb758efe", 
+        "node_id": "MDY6Q29tbWl0MTE1Mjg1NDAxOmUyM2QxMjljMjc3OThmMWQzZmFjOGRmYTQwOGM3YmU3ZmI3NThlZmU=", 
+        "parents": [
+            {
+                "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/e0044d0a7b38d18ac3a4dd2b7ba503cd55e3a84a", 
+                "sha": "e0044d0a7b38d18ac3a4dd2b7ba503cd55e3a84a", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/e0044d0a7b38d18ac3a4dd2b7ba503cd55e3a84a"
+            }
+        ], 
+        "sha": "e23d129c27798f1d3fac8dfa408c7be7fb758efe", 
+        "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/e23d129c27798f1d3fac8dfa408c7be7fb758efe"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/26132?v=4", 
+            "events_url": "https://api.github.com/users/felipebastosweb/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/felipebastosweb/followers", 
+            "following_url": "https://api.github.com/users/felipebastosweb/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/felipebastosweb/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/felipebastosweb", 
+            "id": 26132, 
+            "login": "felipebastosweb", 
+            "node_id": "MDQ6VXNlcjI2MTMy", 
+            "organizations_url": "https://api.github.com/users/felipebastosweb/orgs", 
+            "received_events_url": "https://api.github.com/users/felipebastosweb/received_events", 
+            "repos_url": "https://api.github.com/users/felipebastosweb/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/felipebastosweb/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/felipebastosweb/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/felipebastosweb"
+        }, 
+        "comments_url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/e0044d0a7b38d18ac3a4dd2b7ba503cd55e3a84a/comments", 
+        "commit": {
+            "author": {
+                "date": "2018-01-27T21:05:55Z", 
+                "email": "felipebastosweb@gmail.com", 
+                "name": "felipe bastos"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2018-01-27T21:05:55Z", 
+                "email": "noreply@github.com", 
+                "name": "GitHub"
+            }, 
+            "message": "Update __init__.py", 
+            "tree": {
+                "sha": "32ef1a17b960ea0ab20e3426b56aec6116f71628", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/trees/32ef1a17b960ea0ab20e3426b56aec6116f71628"
+            }, 
+            "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/commits/e0044d0a7b38d18ac3a4dd2b7ba503cd55e3a84a", 
+            "verification": {
+                "payload": "tree 32ef1a17b960ea0ab20e3426b56aec6116f71628\nparent b0b89b722da4ae7c3fddd49c9fc17bdd8d06d8a7\nauthor felipe bastos <felipebastosweb@gmail.com> 1517087155 -0300\ncommitter GitHub <noreply@github.com> 1517087155 -0300\n\nUpdate __init__.py", 
+                "reason": "valid", 
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJabOmzCRBK7hj4Ov3rIwAAdHIIAEdd7gGjPYu3wFdT468vKATG\nU2D9DX0QC9zZ8QVwgkXKke2KyOCk6BztlvYG3yKQ569160DBRQclcBE5rwkFKANU\natOaHhDEEA7LpBSXbZ3PVRwkyzeYuPbLXLgRvVlJtuu+jdXtW6p4Bo8JdVTgnk1f\nos0r3KaUCd1S+BbaBPzMgbbc3ynGwTBkhNh/VqqWz7/ExcLWsG3gvyiCddJw98Zz\nkp4cwexkQOVlwKw3Q9AxUFxPlDkQiwjA+cVCEr8YjTQOcbq2nZwObWRIvXnBlP0w\nQl+3kIDn9xC4SGzD8PJvI9KxGEpWskawNXxCQ6bJTzyQg4u7HQEAE1K2OgP8ZiM=\n=4rgl\n-----END PGP SIGNATURE-----\n", 
+                "verified": true
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4", 
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/web-flow/followers", 
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/web-flow", 
+            "id": 19864447, 
+            "login": "web-flow", 
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3", 
+            "organizations_url": "https://api.github.com/users/web-flow/orgs", 
+            "received_events_url": "https://api.github.com/users/web-flow/received_events", 
+            "repos_url": "https://api.github.com/users/web-flow/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/web-flow"
+        }, 
+        "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/e0044d0a7b38d18ac3a4dd2b7ba503cd55e3a84a", 
+        "node_id": "MDY6Q29tbWl0MTE1Mjg1NDAxOmUwMDQ0ZDBhN2IzOGQxOGFjM2E0ZGQyYjdiYTUwM2NkNTVlM2E4NGE=", 
+        "parents": [
+            {
+                "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/b0b89b722da4ae7c3fddd49c9fc17bdd8d06d8a7", 
+                "sha": "b0b89b722da4ae7c3fddd49c9fc17bdd8d06d8a7", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/b0b89b722da4ae7c3fddd49c9fc17bdd8d06d8a7"
+            }
+        ], 
+        "sha": "e0044d0a7b38d18ac3a4dd2b7ba503cd55e3a84a", 
+        "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/e0044d0a7b38d18ac3a4dd2b7ba503cd55e3a84a"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/26132?v=4", 
+            "events_url": "https://api.github.com/users/felipebastosweb/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/felipebastosweb/followers", 
+            "following_url": "https://api.github.com/users/felipebastosweb/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/felipebastosweb/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/felipebastosweb", 
+            "id": 26132, 
+            "login": "felipebastosweb", 
+            "node_id": "MDQ6VXNlcjI2MTMy", 
+            "organizations_url": "https://api.github.com/users/felipebastosweb/orgs", 
+            "received_events_url": "https://api.github.com/users/felipebastosweb/received_events", 
+            "repos_url": "https://api.github.com/users/felipebastosweb/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/felipebastosweb/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/felipebastosweb/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/felipebastosweb"
+        }, 
+        "comments_url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/b0b89b722da4ae7c3fddd49c9fc17bdd8d06d8a7/comments", 
+        "commit": {
+            "author": {
+                "date": "2018-01-27T20:48:59Z", 
+                "email": "felipebastosweb@gmail.com", 
+                "name": "felipe bastos"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2018-01-27T20:48:59Z", 
+                "email": "noreply@github.com", 
+                "name": "GitHub"
+            }, 
+            "message": "Rename councilmen/councilmen-list.py to services/councilmen/councilmen-list.py", 
+            "tree": {
+                "sha": "f9a505e1ac1d3b48d850fc7ea3cc9cd03e22d76d", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/trees/f9a505e1ac1d3b48d850fc7ea3cc9cd03e22d76d"
+            }, 
+            "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/commits/b0b89b722da4ae7c3fddd49c9fc17bdd8d06d8a7", 
+            "verification": {
+                "payload": "tree f9a505e1ac1d3b48d850fc7ea3cc9cd03e22d76d\nparent d0f464900ef3ac7cf411ad3592fca37fe81796c9\nauthor felipe bastos <felipebastosweb@gmail.com> 1517086139 -0300\ncommitter GitHub <noreply@github.com> 1517086139 -0300\n\nRename councilmen/councilmen-list.py to services/councilmen/councilmen-list.py", 
+                "reason": "valid", 
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJabOW7CRBK7hj4Ov3rIwAAdHIIAKRpWI+Ui8LbA/G3o89u63je\nhuACIviHHrpPvmQgBnm2P/vHq5j831ABlA4Ulu7ED8SoZNWUoY95MxuFeRLzNth2\ny79IiM5VoAQRz1YTJvbO+InK0GXRKw9bqyUO69vrGhK89t5L16S8s3odcO1gISVc\nri6TP4FyHzcn4rLKGHKa7XskJTaQaPtf2cUFjUCSrtuFgZv/jfahVNLlKybbBMbB\nPOMor/EEi/f2QF591dEe10BgK7O0cor8Dimgglj1qrdsbfDHqBoHtljAlsTJZGnz\nkk34sEuD8qdlnGooB50EpJm09ngB4+4kAU73VNUy3Mhuf45jEArqclAW1totTBQ=\n=WNRC\n-----END PGP SIGNATURE-----\n", 
+                "verified": true
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4", 
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/web-flow/followers", 
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/web-flow", 
+            "id": 19864447, 
+            "login": "web-flow", 
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3", 
+            "organizations_url": "https://api.github.com/users/web-flow/orgs", 
+            "received_events_url": "https://api.github.com/users/web-flow/received_events", 
+            "repos_url": "https://api.github.com/users/web-flow/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/web-flow"
+        }, 
+        "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/b0b89b722da4ae7c3fddd49c9fc17bdd8d06d8a7", 
+        "node_id": "MDY6Q29tbWl0MTE1Mjg1NDAxOmIwYjg5YjcyMmRhNGFlN2MzZmRkZDQ5YzlmYzE3YmRkOGQwNmQ4YTc=", 
+        "parents": [
+            {
+                "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/d0f464900ef3ac7cf411ad3592fca37fe81796c9", 
+                "sha": "d0f464900ef3ac7cf411ad3592fca37fe81796c9", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/d0f464900ef3ac7cf411ad3592fca37fe81796c9"
+            }
+        ], 
+        "sha": "b0b89b722da4ae7c3fddd49c9fc17bdd8d06d8a7", 
+        "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/b0b89b722da4ae7c3fddd49c9fc17bdd8d06d8a7"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/26132?v=4", 
+            "events_url": "https://api.github.com/users/felipebastosweb/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/felipebastosweb/followers", 
+            "following_url": "https://api.github.com/users/felipebastosweb/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/felipebastosweb/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/felipebastosweb", 
+            "id": 26132, 
+            "login": "felipebastosweb", 
+            "node_id": "MDQ6VXNlcjI2MTMy", 
+            "organizations_url": "https://api.github.com/users/felipebastosweb/orgs", 
+            "received_events_url": "https://api.github.com/users/felipebastosweb/received_events", 
+            "repos_url": "https://api.github.com/users/felipebastosweb/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/felipebastosweb/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/felipebastosweb/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/felipebastosweb"
+        }, 
+        "comments_url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/d0f464900ef3ac7cf411ad3592fca37fe81796c9/comments", 
+        "commit": {
+            "author": {
+                "date": "2018-01-27T20:38:57Z", 
+                "email": "felipebastosweb@gmail.com", 
+                "name": "felipe bastos"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2018-01-27T20:38:57Z", 
+                "email": "noreply@github.com", 
+                "name": "GitHub"
+            }, 
+            "message": "Create __init__.py", 
+            "tree": {
+                "sha": "b203bf2fc34b2daf98a64742a4a0c729dbde35a5", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/trees/b203bf2fc34b2daf98a64742a4a0c729dbde35a5"
+            }, 
+            "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/commits/d0f464900ef3ac7cf411ad3592fca37fe81796c9", 
+            "verification": {
+                "payload": "tree b203bf2fc34b2daf98a64742a4a0c729dbde35a5\nparent 05ee331f9c8bbb2c2dcd79b4461804fd7f57d3b4\nauthor felipe bastos <felipebastosweb@gmail.com> 1517085537 -0300\ncommitter GitHub <noreply@github.com> 1517085537 -0300\n\nCreate __init__.py", 
+                "reason": "valid", 
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJabONhCRBK7hj4Ov3rIwAAdHIIAC03+hBAKcTxCS7EG+HCLov/\n8oQxKRtmg+v3OnM67nUG+eK0S077SdN172hWeBDXQvHlZ2KS0ukbVcyv1YerCmDq\nd1wqkgRJoQ+X8QjUKBISZxb8hd0U9HTpfJNMJlJ6TxjHffycdE8kGKHo7pcRbbxO\nFO5vfQ9DAhyMU6+zsLwRCRyTTVBEbhRsX0n2Nqo1LT56bbZFg+0blfB/Z2xxq4tf\nhDunisi/J9G57XQlZAqtC5pfep0ba7mYclwWWK1W6kOHcrVbn/XkSmNJCsdTOvq0\n06zuyqslgmyFmDjHYfK6kSZQwDDFS8Mx2Rqk2svvKLOS4AQXlZcbQ6aPwfp6nzc=\n=Wk2h\n-----END PGP SIGNATURE-----\n", 
+                "verified": true
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4", 
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/web-flow/followers", 
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/web-flow", 
+            "id": 19864447, 
+            "login": "web-flow", 
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3", 
+            "organizations_url": "https://api.github.com/users/web-flow/orgs", 
+            "received_events_url": "https://api.github.com/users/web-flow/received_events", 
+            "repos_url": "https://api.github.com/users/web-flow/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/web-flow"
+        }, 
+        "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/d0f464900ef3ac7cf411ad3592fca37fe81796c9", 
+        "node_id": "MDY6Q29tbWl0MTE1Mjg1NDAxOmQwZjQ2NDkwMGVmM2FjN2NmNDExYWQzNTkyZmNhMzdmZTgxNzk2Yzk=", 
+        "parents": [
+            {
+                "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/05ee331f9c8bbb2c2dcd79b4461804fd7f57d3b4", 
+                "sha": "05ee331f9c8bbb2c2dcd79b4461804fd7f57d3b4", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/05ee331f9c8bbb2c2dcd79b4461804fd7f57d3b4"
+            }
+        ], 
+        "sha": "d0f464900ef3ac7cf411ad3592fca37fe81796c9", 
+        "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/d0f464900ef3ac7cf411ad3592fca37fe81796c9"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/26132?v=4", 
+            "events_url": "https://api.github.com/users/felipebastosweb/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/felipebastosweb/followers", 
+            "following_url": "https://api.github.com/users/felipebastosweb/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/felipebastosweb/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/felipebastosweb", 
+            "id": 26132, 
+            "login": "felipebastosweb", 
+            "node_id": "MDQ6VXNlcjI2MTMy", 
+            "organizations_url": "https://api.github.com/users/felipebastosweb/orgs", 
+            "received_events_url": "https://api.github.com/users/felipebastosweb/received_events", 
+            "repos_url": "https://api.github.com/users/felipebastosweb/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/felipebastosweb/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/felipebastosweb/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/felipebastosweb"
+        }, 
+        "comments_url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/05ee331f9c8bbb2c2dcd79b4461804fd7f57d3b4/comments", 
+        "commit": {
+            "author": {
+                "date": "2018-01-27T20:36:48Z", 
+                "email": "felipebastosweb@gmail.com", 
+                "name": "felipe bastos"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2018-01-27T20:36:48Z", 
+                "email": "noreply@github.com", 
+                "name": "GitHub"
+            }, 
+            "message": "Create main.py", 
+            "tree": {
+                "sha": "d783841aa788b5a52be89ae5af47c07ca61593f8", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/trees/d783841aa788b5a52be89ae5af47c07ca61593f8"
+            }, 
+            "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/commits/05ee331f9c8bbb2c2dcd79b4461804fd7f57d3b4", 
+            "verification": {
+                "payload": "tree d783841aa788b5a52be89ae5af47c07ca61593f8\nparent 2dbc949a4def25071df9621a7824aa834ed69fb1\nauthor felipe bastos <felipebastosweb@gmail.com> 1517085408 -0300\ncommitter GitHub <noreply@github.com> 1517085408 -0300\n\nCreate main.py", 
+                "reason": "valid", 
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJabOLgCRBK7hj4Ov3rIwAAdHIIAKaTQdXSpOQZs3dKCRPQBrm4\neoB9wBt5XVbDyylfYY2cI+OZyQmBjFKCJLWMnr13qUKV8ldcCpRaq5GYsr8Bwm/Z\npofP2KEYwsf8tcM++BbGdQgcMFZ0+K2Yh/E/4KAlyxQLvV4fTUMg3oPrhPsJt81n\n4ZEw9GTtiKIE650p0G10T8cFRXWluhP5GTN0GnFvVUatE4vkO23Qmj2K4wvihQa2\nlix1yOgmJBPpAdLvXSWF3fbxHfpsaHKTypytzllpWK1sA8ii/wvR0hcB/uCgQIGs\nUG50oSOghFUz2fnb4Pe3gg3AUPmDaOF38sIsmxXbPDqaUlfj1KhD4a1CN97jRIo=\n=w5Oi\n-----END PGP SIGNATURE-----\n", 
+                "verified": true
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4", 
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/web-flow/followers", 
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/web-flow", 
+            "id": 19864447, 
+            "login": "web-flow", 
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3", 
+            "organizations_url": "https://api.github.com/users/web-flow/orgs", 
+            "received_events_url": "https://api.github.com/users/web-flow/received_events", 
+            "repos_url": "https://api.github.com/users/web-flow/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/web-flow"
+        }, 
+        "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/05ee331f9c8bbb2c2dcd79b4461804fd7f57d3b4", 
+        "node_id": "MDY6Q29tbWl0MTE1Mjg1NDAxOjA1ZWUzMzFmOWM4YmJiMmMyZGNkNzliNDQ2MTgwNGZkN2Y1N2QzYjQ=", 
+        "parents": [
+            {
+                "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/2dbc949a4def25071df9621a7824aa834ed69fb1", 
+                "sha": "2dbc949a4def25071df9621a7824aa834ed69fb1", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/2dbc949a4def25071df9621a7824aa834ed69fb1"
+            }
+        ], 
+        "sha": "05ee331f9c8bbb2c2dcd79b4461804fd7f57d3b4", 
+        "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/05ee331f9c8bbb2c2dcd79b4461804fd7f57d3b4"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/26132?v=4", 
+            "events_url": "https://api.github.com/users/felipebastosweb/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/felipebastosweb/followers", 
+            "following_url": "https://api.github.com/users/felipebastosweb/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/felipebastosweb/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/felipebastosweb", 
+            "id": 26132, 
+            "login": "felipebastosweb", 
+            "node_id": "MDQ6VXNlcjI2MTMy", 
+            "organizations_url": "https://api.github.com/users/felipebastosweb/orgs", 
+            "received_events_url": "https://api.github.com/users/felipebastosweb/received_events", 
+            "repos_url": "https://api.github.com/users/felipebastosweb/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/felipebastosweb/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/felipebastosweb/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/felipebastosweb"
+        }, 
+        "comments_url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/2dbc949a4def25071df9621a7824aa834ed69fb1/comments", 
+        "commit": {
+            "author": {
+                "date": "2017-12-25T17:51:57Z", 
+                "email": "felipebastosweb@gmail.com", 
+                "name": "felipe bastos"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2017-12-25T17:51:57Z", 
+                "email": "noreply@github.com", 
+                "name": "GitHub"
+            }, 
+            "message": "Merge pull request #1 from cybercitizenship/previous-councilmen-list\n\nPrevious councilmen list", 
+            "tree": {
+                "sha": "8397aec0440186516b96da902265e28a39f47b83", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/trees/8397aec0440186516b96da902265e28a39f47b83"
+            }, 
+            "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/commits/2dbc949a4def25071df9621a7824aa834ed69fb1", 
+            "verification": {
+                "payload": "tree 8397aec0440186516b96da902265e28a39f47b83\nparent c9adec91cf4b48763c327300ed3a0e29a1861fdb\nparent 8480477f85bd05597b7a69176b5f139c24e74b3c\nauthor felipe bastos <felipebastosweb@gmail.com> 1514224317 -0300\ncommitter GitHub <noreply@github.com> 1514224317 -0300\n\nMerge pull request #1 from cybercitizenship/previous-councilmen-list\n\nPrevious councilmen list", 
+                "reason": "valid", 
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJaQTq9CRBK7hj4Ov3rIwAAdHIIAG2SBcLeKc6mucLbC0XuFmyx\nljpvkAq7zt1VqLdUk800tXPGfDRJf64EYWLZcKu8aXIHwm/XhNmuPYzw/VIkDNln\nIqsZVRWvtDvAj9/I3OUTx/M1UCS/KXDSqWWVS0wWayqCRhvSCIvXaUMLqYs2sUdx\n0oI/e6P8yrAPi7GMMb5YlLG/cGaWmifr0VlqRmbTmYyq6aq1wevi7s/DQjDzDEb1\nWnbmGb+kvWiu8lAkPaxOYb3pOJmMZCTo8FvNBGSV/NIcb9nrNAhigJVVyJjiPL4A\nmANfmgIpJFehE8Lemuuskw4/tEo4IkdFm4wwcjI3dotKOpNpv2mpox24Uop3WAY=\n=YYxj\n-----END PGP SIGNATURE-----\n", 
+                "verified": true
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4", 
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/web-flow/followers", 
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/web-flow", 
+            "id": 19864447, 
+            "login": "web-flow", 
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3", 
+            "organizations_url": "https://api.github.com/users/web-flow/orgs", 
+            "received_events_url": "https://api.github.com/users/web-flow/received_events", 
+            "repos_url": "https://api.github.com/users/web-flow/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/web-flow"
+        }, 
+        "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/2dbc949a4def25071df9621a7824aa834ed69fb1", 
+        "node_id": "MDY6Q29tbWl0MTE1Mjg1NDAxOjJkYmM5NDlhNGRlZjI1MDcxZGY5NjIxYTc4MjRhYTgzNGVkNjlmYjE=", 
+        "parents": [
+            {
+                "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/c9adec91cf4b48763c327300ed3a0e29a1861fdb", 
+                "sha": "c9adec91cf4b48763c327300ed3a0e29a1861fdb", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/c9adec91cf4b48763c327300ed3a0e29a1861fdb"
+            }, 
+            {
+                "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/8480477f85bd05597b7a69176b5f139c24e74b3c", 
+                "sha": "8480477f85bd05597b7a69176b5f139c24e74b3c", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/8480477f85bd05597b7a69176b5f139c24e74b3c"
+            }
+        ], 
+        "sha": "2dbc949a4def25071df9621a7824aa834ed69fb1", 
+        "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/2dbc949a4def25071df9621a7824aa834ed69fb1"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/26132?v=4", 
+            "events_url": "https://api.github.com/users/felipebastosweb/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/felipebastosweb/followers", 
+            "following_url": "https://api.github.com/users/felipebastosweb/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/felipebastosweb/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/felipebastosweb", 
+            "id": 26132, 
+            "login": "felipebastosweb", 
+            "node_id": "MDQ6VXNlcjI2MTMy", 
+            "organizations_url": "https://api.github.com/users/felipebastosweb/orgs", 
+            "received_events_url": "https://api.github.com/users/felipebastosweb/received_events", 
+            "repos_url": "https://api.github.com/users/felipebastosweb/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/felipebastosweb/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/felipebastosweb/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/felipebastosweb"
+        }, 
+        "comments_url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/8480477f85bd05597b7a69176b5f139c24e74b3c/comments", 
+        "commit": {
+            "author": {
+                "date": "2017-12-25T17:48:22Z", 
+                "email": "felipebastosweb@gmail.com", 
+                "name": "felipe bastos"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2017-12-25T17:48:22Z", 
+                "email": "noreply@github.com", 
+                "name": "GitHub"
+            }, 
+            "message": "Update councilmen-list.py", 
+            "tree": {
+                "sha": "8397aec0440186516b96da902265e28a39f47b83", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/trees/8397aec0440186516b96da902265e28a39f47b83"
+            }, 
+            "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/commits/8480477f85bd05597b7a69176b5f139c24e74b3c", 
+            "verification": {
+                "payload": "tree 8397aec0440186516b96da902265e28a39f47b83\nparent a1d29ffbc111ef962ccfe172c7e52aa62fdc46b0\nauthor felipe bastos <felipebastosweb@gmail.com> 1514224102 -0300\ncommitter GitHub <noreply@github.com> 1514224102 -0300\n\nUpdate councilmen-list.py", 
+                "reason": "valid", 
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJaQTnmCRBK7hj4Ov3rIwAAdHIIABbHwPbLSqk7YoP86XaACJem\naGb4H+rkxdVzdpKCIJ20wwMx3PMcgAQOpXz9UEteRPufJEZ8y6wP2kykHGCvuAaG\nPYPcbWlEwqJQXTdIq05gtq2qgKMN0lzniFusvtqK55pxnmeApmXKCnYwqQZbjwgd\nHBcjbSP1clU8vUDrMqcvx4Pbrcv5Mfc3VUNCie0/iz4xFwp+yMf6krPR7WziXhc5\nUeINcogU73PAgflVIWVwW6b87XnnQHbetjEZXmumosriXtJCaMBsaz2caYhpWrx6\n3HxUJA7pWuI6WEkANOPIFfp7S6orj6A/Tws6s/6FhB/W/xjWdLT5/rTNRQqAcTo=\n=9qdE\n-----END PGP SIGNATURE-----\n", 
+                "verified": true
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4", 
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/web-flow/followers", 
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/web-flow", 
+            "id": 19864447, 
+            "login": "web-flow", 
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3", 
+            "organizations_url": "https://api.github.com/users/web-flow/orgs", 
+            "received_events_url": "https://api.github.com/users/web-flow/received_events", 
+            "repos_url": "https://api.github.com/users/web-flow/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/web-flow"
+        }, 
+        "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/8480477f85bd05597b7a69176b5f139c24e74b3c", 
+        "node_id": "MDY6Q29tbWl0MTE1Mjg1NDAxOjg0ODA0NzdmODViZDA1NTk3YjdhNjkxNzZiNWYxMzljMjRlNzRiM2M=", 
+        "parents": [
+            {
+                "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/a1d29ffbc111ef962ccfe172c7e52aa62fdc46b0", 
+                "sha": "a1d29ffbc111ef962ccfe172c7e52aa62fdc46b0", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/a1d29ffbc111ef962ccfe172c7e52aa62fdc46b0"
+            }
+        ], 
+        "sha": "8480477f85bd05597b7a69176b5f139c24e74b3c", 
+        "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/8480477f85bd05597b7a69176b5f139c24e74b3c"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/26132?v=4", 
+            "events_url": "https://api.github.com/users/felipebastosweb/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/felipebastosweb/followers", 
+            "following_url": "https://api.github.com/users/felipebastosweb/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/felipebastosweb/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/felipebastosweb", 
+            "id": 26132, 
+            "login": "felipebastosweb", 
+            "node_id": "MDQ6VXNlcjI2MTMy", 
+            "organizations_url": "https://api.github.com/users/felipebastosweb/orgs", 
+            "received_events_url": "https://api.github.com/users/felipebastosweb/received_events", 
+            "repos_url": "https://api.github.com/users/felipebastosweb/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/felipebastosweb/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/felipebastosweb/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/felipebastosweb"
+        }, 
+        "comments_url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/a1d29ffbc111ef962ccfe172c7e52aa62fdc46b0/comments", 
+        "commit": {
+            "author": {
+                "date": "2017-12-25T13:27:32Z", 
+                "email": "felipebastosweb@gmail.com", 
+                "name": "felipe bastos"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2017-12-25T13:27:32Z", 
+                "email": "noreply@github.com", 
+                "name": "GitHub"
+            }, 
+            "message": "councilmen data", 
+            "tree": {
+                "sha": "7cdc488b3408b6cbb34f40014e96b78431efa26a", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/trees/7cdc488b3408b6cbb34f40014e96b78431efa26a"
+            }, 
+            "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/commits/a1d29ffbc111ef962ccfe172c7e52aa62fdc46b0", 
+            "verification": {
+                "payload": "tree 7cdc488b3408b6cbb34f40014e96b78431efa26a\nparent 0e8bcf784a8f50d3bfe8828d07c51a0a67d8b18a\nauthor felipe bastos <felipebastosweb@gmail.com> 1514208452 -0300\ncommitter GitHub <noreply@github.com> 1514208452 -0300\n\ncouncilmen data", 
+                "reason": "valid", 
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJaQPzECRBK7hj4Ov3rIwAAdHIIAJaAB+vMgd8HVLqUChBKfrrD\nsJZlpCk6MZwlmpBI3Z9Wl3XfOHKGBrLHSugXHSek26S6f3Ij2xp+aSXqAUhYgAiJ\n25w99hp+zJbUR/GMJAPSZD77GIdREmWDMWrb9qygHBnO7U95qeHSLBppsv7OyUCM\nB94OkFbtigfRcLn3ZLa4s5CF4lZ0E9zPWvnqA20PYyIoLX6vDNaYGTcxt+cKqzWW\nyT6QIuEiis4btGDPCReuYaPzvyGsMFYPohVNVQHA9mhQ7hIcPrzV1fAaGalDo9Z+\nUH58mlUw1+aEvBI+Z6QG9YlfBSSw0zuAnbZV/CxjKca5EdVCiKrQ/vK1mudvaIk=\n=HSvx\n-----END PGP SIGNATURE-----\n", 
+                "verified": true
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4", 
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/web-flow/followers", 
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/web-flow", 
+            "id": 19864447, 
+            "login": "web-flow", 
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3", 
+            "organizations_url": "https://api.github.com/users/web-flow/orgs", 
+            "received_events_url": "https://api.github.com/users/web-flow/received_events", 
+            "repos_url": "https://api.github.com/users/web-flow/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/web-flow"
+        }, 
+        "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/a1d29ffbc111ef962ccfe172c7e52aa62fdc46b0", 
+        "node_id": "MDY6Q29tbWl0MTE1Mjg1NDAxOmExZDI5ZmZiYzExMWVmOTYyY2NmZTE3MmM3ZTUyYWE2MmZkYzQ2YjA=", 
+        "parents": [
+            {
+                "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/0e8bcf784a8f50d3bfe8828d07c51a0a67d8b18a", 
+                "sha": "0e8bcf784a8f50d3bfe8828d07c51a0a67d8b18a", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/0e8bcf784a8f50d3bfe8828d07c51a0a67d8b18a"
+            }
+        ], 
+        "sha": "a1d29ffbc111ef962ccfe172c7e52aa62fdc46b0", 
+        "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/a1d29ffbc111ef962ccfe172c7e52aa62fdc46b0"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/26132?v=4", 
+            "events_url": "https://api.github.com/users/felipebastosweb/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/felipebastosweb/followers", 
+            "following_url": "https://api.github.com/users/felipebastosweb/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/felipebastosweb/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/felipebastosweb", 
+            "id": 26132, 
+            "login": "felipebastosweb", 
+            "node_id": "MDQ6VXNlcjI2MTMy", 
+            "organizations_url": "https://api.github.com/users/felipebastosweb/orgs", 
+            "received_events_url": "https://api.github.com/users/felipebastosweb/received_events", 
+            "repos_url": "https://api.github.com/users/felipebastosweb/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/felipebastosweb/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/felipebastosweb/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/felipebastosweb"
+        }, 
+        "comments_url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/0e8bcf784a8f50d3bfe8828d07c51a0a67d8b18a/comments", 
+        "commit": {
+            "author": {
+                "date": "2017-12-25T13:04:02Z", 
+                "email": "felipebastosweb@gmail.com", 
+                "name": "felipe bastos"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2017-12-25T13:04:02Z", 
+                "email": "noreply@github.com", 
+                "name": "GitHub"
+            }, 
+            "message": "extract councilmen card", 
+            "tree": {
+                "sha": "056066e9f00336c5e2a4eac7bf8da23ef801f49a", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/trees/056066e9f00336c5e2a4eac7bf8da23ef801f49a"
+            }, 
+            "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/commits/0e8bcf784a8f50d3bfe8828d07c51a0a67d8b18a", 
+            "verification": {
+                "payload": "tree 056066e9f00336c5e2a4eac7bf8da23ef801f49a\nparent d861a025377f6fe47d544b14e9de037df5d7663b\nauthor felipe bastos <felipebastosweb@gmail.com> 1514207042 -0300\ncommitter GitHub <noreply@github.com> 1514207042 -0300\n\nextract councilmen card", 
+                "reason": "valid", 
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJaQPdCCRBK7hj4Ov3rIwAAdHIIAE8Z+f07IXbC9YYEJl8bL6ip\nHszmySbj8K2fk4y/uohtnTFzipMFRI4sCETldwXWQqAeSPsGXymm2G4FGRf2acBi\ndFcTx9Gg7Ha4amH5zCkaJ4I4iqvmH2Pm3rWsD86hIx9rqh93+8wbiknUYv3GGYsE\nqXEqiYLRUiddjs07zA7cTUEZibLQ8hRvwraa2jAhnhH2I2+F9b6Lq4rbTSKHqUeq\n9GAjn0WxqKMHeiQvQV36LaMxtT6EIrcdHj5ijJHQ4imw0oZWUhOa6bt5BIjIG6pC\nrNTHfOhAHPeVj/stNGIMuihfE5FaPBa1FU7jvWpeg6S7Nx7p29Sl3MqKTrlu9Eo=\n=p4+c\n-----END PGP SIGNATURE-----\n", 
+                "verified": true
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4", 
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/web-flow/followers", 
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/web-flow", 
+            "id": 19864447, 
+            "login": "web-flow", 
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3", 
+            "organizations_url": "https://api.github.com/users/web-flow/orgs", 
+            "received_events_url": "https://api.github.com/users/web-flow/received_events", 
+            "repos_url": "https://api.github.com/users/web-flow/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/web-flow"
+        }, 
+        "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/0e8bcf784a8f50d3bfe8828d07c51a0a67d8b18a", 
+        "node_id": "MDY6Q29tbWl0MTE1Mjg1NDAxOjBlOGJjZjc4NGE4ZjUwZDNiZmU4ODI4ZDA3YzUxYTBhNjdkOGIxOGE=", 
+        "parents": [
+            {
+                "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/d861a025377f6fe47d544b14e9de037df5d7663b", 
+                "sha": "d861a025377f6fe47d544b14e9de037df5d7663b", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/d861a025377f6fe47d544b14e9de037df5d7663b"
+            }
+        ], 
+        "sha": "0e8bcf784a8f50d3bfe8828d07c51a0a67d8b18a", 
+        "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/0e8bcf784a8f50d3bfe8828d07c51a0a67d8b18a"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/26132?v=4", 
+            "events_url": "https://api.github.com/users/felipebastosweb/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/felipebastosweb/followers", 
+            "following_url": "https://api.github.com/users/felipebastosweb/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/felipebastosweb/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/felipebastosweb", 
+            "id": 26132, 
+            "login": "felipebastosweb", 
+            "node_id": "MDQ6VXNlcjI2MTMy", 
+            "organizations_url": "https://api.github.com/users/felipebastosweb/orgs", 
+            "received_events_url": "https://api.github.com/users/felipebastosweb/received_events", 
+            "repos_url": "https://api.github.com/users/felipebastosweb/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/felipebastosweb/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/felipebastosweb/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/felipebastosweb"
+        }, 
+        "comments_url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/d861a025377f6fe47d544b14e9de037df5d7663b/comments", 
+        "commit": {
+            "author": {
+                "date": "2017-12-24T20:34:17Z", 
+                "email": "felipebastosweb@gmail.com", 
+                "name": "felipe bastos"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2017-12-24T20:34:17Z", 
+                "email": "noreply@github.com", 
+                "name": "GitHub"
+            }, 
+            "message": "Create councilmen-list.py", 
+            "tree": {
+                "sha": "cf0e517392c5884a3cfb75a5d738e7734101bed7", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/trees/cf0e517392c5884a3cfb75a5d738e7734101bed7"
+            }, 
+            "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/commits/d861a025377f6fe47d544b14e9de037df5d7663b", 
+            "verification": {
+                "payload": "tree cf0e517392c5884a3cfb75a5d738e7734101bed7\nparent c9adec91cf4b48763c327300ed3a0e29a1861fdb\nauthor felipe bastos <felipebastosweb@gmail.com> 1514147657 -0300\ncommitter GitHub <noreply@github.com> 1514147657 -0300\n\nCreate councilmen-list.py", 
+                "reason": "valid", 
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJaQA9JCRBK7hj4Ov3rIwAAdHIIAE6SKo3rpYY9BdNJNUccVZPz\nGLIA8pXK6FAYvE39f+S5TTQ9T9djvlcaMfcjYJGv55KkUdMs5fcw2BXyZPsHOKO1\nq04zuU9WHNHN7iSHf3DXuIk3nsb0gInLhpokFfXKsoJot862OQSYY7YiqqxE0jf7\nLpeJmKE03wflxiX1Si4mG7reO1igE5C6HcqPjygaSEJkXSZso26G9N2VuvZq/A3L\nUChpJmgBsLIh2RnOvEJK34H+Rym8O6btd5fkay49qYPEacHSHNLSljFjnxFmJ6k7\nXupNOwwtqmjloTu6LLQDHe6VDhvfadnoMj3tpT8j47nBuSkrsi87CaCnVR/CtV0=\n=knfk\n-----END PGP SIGNATURE-----\n", 
+                "verified": true
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4", 
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/web-flow/followers", 
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/web-flow", 
+            "id": 19864447, 
+            "login": "web-flow", 
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3", 
+            "organizations_url": "https://api.github.com/users/web-flow/orgs", 
+            "received_events_url": "https://api.github.com/users/web-flow/received_events", 
+            "repos_url": "https://api.github.com/users/web-flow/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/web-flow"
+        }, 
+        "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/d861a025377f6fe47d544b14e9de037df5d7663b", 
+        "node_id": "MDY6Q29tbWl0MTE1Mjg1NDAxOmQ4NjFhMDI1Mzc3ZjZmZTQ3ZDU0NGIxNGU5ZGUwMzdkZjVkNzY2M2I=", 
+        "parents": [
+            {
+                "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/c9adec91cf4b48763c327300ed3a0e29a1861fdb", 
+                "sha": "c9adec91cf4b48763c327300ed3a0e29a1861fdb", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/c9adec91cf4b48763c327300ed3a0e29a1861fdb"
+            }
+        ], 
+        "sha": "d861a025377f6fe47d544b14e9de037df5d7663b", 
+        "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/d861a025377f6fe47d544b14e9de037df5d7663b"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/26132?v=4", 
+            "events_url": "https://api.github.com/users/felipebastosweb/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/felipebastosweb/followers", 
+            "following_url": "https://api.github.com/users/felipebastosweb/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/felipebastosweb/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/felipebastosweb", 
+            "id": 26132, 
+            "login": "felipebastosweb", 
+            "node_id": "MDQ6VXNlcjI2MTMy", 
+            "organizations_url": "https://api.github.com/users/felipebastosweb/orgs", 
+            "received_events_url": "https://api.github.com/users/felipebastosweb/received_events", 
+            "repos_url": "https://api.github.com/users/felipebastosweb/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/felipebastosweb/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/felipebastosweb/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/felipebastosweb"
+        }, 
+        "comments_url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/c9adec91cf4b48763c327300ed3a0e29a1861fdb/comments", 
+        "commit": {
+            "author": {
+                "date": "2017-12-24T20:21:58Z", 
+                "email": "felipebastosweb@gmail.com", 
+                "name": "felipe bastos"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2017-12-24T20:21:58Z", 
+                "email": "noreply@github.com", 
+                "name": "GitHub"
+            }, 
+            "message": "Initial commit", 
+            "tree": {
+                "sha": "8a38d60cc83fd0e06425217a8949cf684b1b3dd1", 
+                "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/trees/8a38d60cc83fd0e06425217a8949cf684b1b3dd1"
+            }, 
+            "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/git/commits/c9adec91cf4b48763c327300ed3a0e29a1861fdb", 
+            "verification": {
+                "payload": "tree 8a38d60cc83fd0e06425217a8949cf684b1b3dd1\nauthor felipe bastos <felipebastosweb@gmail.com> 1514146918 -0300\ncommitter GitHub <noreply@github.com> 1514146918 -0300\n\nInitial commit", 
+                "reason": "valid", 
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJaQAxmCRBK7hj4Ov3rIwAAdHIIADlc3a0n1kD8vv4tZY/I00a4\nxxGOZ72oJMphvWaGVeSxjLrKocShGlZVTUUbq0V9KtWIxFHrEt0eZrFPjQfFa5xR\nEJ7P5hC5/IQ68C4fiaJEBNugtlFR/RiNK1L2PlVYk4NhZrvyBV2uUepJoZkunJ4b\n94T89Q+3GKtoT7nu9ojmYrm72/IOAj9oZAK5kt4gGIcoNGVCOOfxuo2w8gdh92Qj\ntuEwasX0iN/R+MXl4m6hUdGSM6/XE0VW8jLNMjihoo/DPbwSrIAb2THL3PDL4pPX\nJDvSLBrDYYquqr6ZAIWQCcQvGsiYDFmsLS7DRy6NJ8sKOKwTIQZ/U0q974zEWdM=\n=skVa\n-----END PGP SIGNATURE-----\n", 
+                "verified": true
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4", 
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/web-flow/followers", 
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/web-flow", 
+            "id": 19864447, 
+            "login": "web-flow", 
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3", 
+            "organizations_url": "https://api.github.com/users/web-flow/orgs", 
+            "received_events_url": "https://api.github.com/users/web-flow/received_events", 
+            "repos_url": "https://api.github.com/users/web-flow/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/web-flow"
+        }, 
+        "html_url": "https://github.com/cybercitizenship/br-gov-ba-cms/commit/c9adec91cf4b48763c327300ed3a0e29a1861fdb", 
+        "node_id": "MDY6Q29tbWl0MTE1Mjg1NDAxOmM5YWRlYzkxY2Y0YjQ4NzYzYzMyNzMwMGVkM2EwZTI5YTE4NjFmZGI=", 
+        "parents": [], 
+        "sha": "c9adec91cf4b48763c327300ed3a0e29a1861fdb", 
+        "url": "https://api.github.com/repos/cybercitizenship/br-gov-ba-cms/commits/c9adec91cf4b48763c327300ed3a0e29a1861fdb"
+    }
+]

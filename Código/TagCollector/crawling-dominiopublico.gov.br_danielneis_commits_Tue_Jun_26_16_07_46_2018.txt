@@ -1,0 +1,396 @@
+[
+    {
+        "author": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/17608?v=4", 
+            "events_url": "https://api.github.com/users/danielneis/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/danielneis/followers", 
+            "following_url": "https://api.github.com/users/danielneis/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/danielneis/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/danielneis", 
+            "id": 17608, 
+            "login": "danielneis", 
+            "node_id": "MDQ6VXNlcjE3NjA4", 
+            "organizations_url": "https://api.github.com/users/danielneis/orgs", 
+            "received_events_url": "https://api.github.com/users/danielneis/received_events", 
+            "repos_url": "https://api.github.com/users/danielneis/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/danielneis/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/danielneis/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/danielneis"
+        }, 
+        "comments_url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/commits/d10b20bc970a3878243f60e7c20f1e24adab6252/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-15T19:32:47Z", 
+                "email": "danielneis@gmail.com", 
+                "name": "Daniel Neis"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-15T19:32:47Z", 
+                "email": "danielneis@gmail.com", 
+                "name": "Daniel Neis"
+            }, 
+            "message": "Merge branch 'master' of github.com:danielneis/crawling-dominiopublico.gov.br", 
+            "tree": {
+                "sha": "458ce68421b9dd2e609c74a402f71f96013c8e25", 
+                "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/git/trees/458ce68421b9dd2e609c74a402f71f96013c8e25"
+            }, 
+            "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/git/commits/d10b20bc970a3878243f60e7c20f1e24adab6252", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/17608?v=4", 
+            "events_url": "https://api.github.com/users/danielneis/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/danielneis/followers", 
+            "following_url": "https://api.github.com/users/danielneis/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/danielneis/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/danielneis", 
+            "id": 17608, 
+            "login": "danielneis", 
+            "node_id": "MDQ6VXNlcjE3NjA4", 
+            "organizations_url": "https://api.github.com/users/danielneis/orgs", 
+            "received_events_url": "https://api.github.com/users/danielneis/received_events", 
+            "repos_url": "https://api.github.com/users/danielneis/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/danielneis/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/danielneis/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/danielneis"
+        }, 
+        "html_url": "https://github.com/danielneis/crawling-dominiopublico.gov.br/commit/d10b20bc970a3878243f60e7c20f1e24adab6252", 
+        "node_id": "MDY6Q29tbWl0MjI3NjU4MTI6ZDEwYjIwYmM5NzBhMzg3ODI0M2Y2MGU3YzIwZjFlMjRhZGFiNjI1Mg==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/danielneis/crawling-dominiopublico.gov.br/commit/d20be82aa197d9e3bf53cc3eddb7070c5fac1206", 
+                "sha": "d20be82aa197d9e3bf53cc3eddb7070c5fac1206", 
+                "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/commits/d20be82aa197d9e3bf53cc3eddb7070c5fac1206"
+            }, 
+            {
+                "html_url": "https://github.com/danielneis/crawling-dominiopublico.gov.br/commit/4e26d26ebd4a8cb7af36f2f858c351d8654bbcef", 
+                "sha": "4e26d26ebd4a8cb7af36f2f858c351d8654bbcef", 
+                "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/commits/4e26d26ebd4a8cb7af36f2f858c351d8654bbcef"
+            }
+        ], 
+        "sha": "d10b20bc970a3878243f60e7c20f1e24adab6252", 
+        "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/commits/d10b20bc970a3878243f60e7c20f1e24adab6252"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/17608?v=4", 
+            "events_url": "https://api.github.com/users/danielneis/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/danielneis/followers", 
+            "following_url": "https://api.github.com/users/danielneis/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/danielneis/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/danielneis", 
+            "id": 17608, 
+            "login": "danielneis", 
+            "node_id": "MDQ6VXNlcjE3NjA4", 
+            "organizations_url": "https://api.github.com/users/danielneis/orgs", 
+            "received_events_url": "https://api.github.com/users/danielneis/received_events", 
+            "repos_url": "https://api.github.com/users/danielneis/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/danielneis/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/danielneis/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/danielneis"
+        }, 
+        "comments_url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/commits/d20be82aa197d9e3bf53cc3eddb7070c5fac1206/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-15T19:29:18Z", 
+                "email": "danielneis@gmail.com", 
+                "name": "Daniel Neis"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-15T19:29:18Z", 
+                "email": "danielneis@gmail.com", 
+                "name": "Daniel Neis"
+            }, 
+            "message": "usando só bash + arquivos auxiliares para baixar aos poucos", 
+            "tree": {
+                "sha": "97e0c6414223142d4192b84dafc68fd1843c7643", 
+                "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/git/trees/97e0c6414223142d4192b84dafc68fd1843c7643"
+            }, 
+            "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/git/commits/d20be82aa197d9e3bf53cc3eddb7070c5fac1206", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/17608?v=4", 
+            "events_url": "https://api.github.com/users/danielneis/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/danielneis/followers", 
+            "following_url": "https://api.github.com/users/danielneis/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/danielneis/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/danielneis", 
+            "id": 17608, 
+            "login": "danielneis", 
+            "node_id": "MDQ6VXNlcjE3NjA4", 
+            "organizations_url": "https://api.github.com/users/danielneis/orgs", 
+            "received_events_url": "https://api.github.com/users/danielneis/received_events", 
+            "repos_url": "https://api.github.com/users/danielneis/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/danielneis/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/danielneis/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/danielneis"
+        }, 
+        "html_url": "https://github.com/danielneis/crawling-dominiopublico.gov.br/commit/d20be82aa197d9e3bf53cc3eddb7070c5fac1206", 
+        "node_id": "MDY6Q29tbWl0MjI3NjU4MTI6ZDIwYmU4MmFhMTk3ZDllM2JmNTNjYzNlZGRiNzA3MGM1ZmFjMTIwNg==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/danielneis/crawling-dominiopublico.gov.br/commit/e6a7a833f6d85b00e7f05c6f0d09403711697d7d", 
+                "sha": "e6a7a833f6d85b00e7f05c6f0d09403711697d7d", 
+                "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/commits/e6a7a833f6d85b00e7f05c6f0d09403711697d7d"
+            }
+        ], 
+        "sha": "d20be82aa197d9e3bf53cc3eddb7070c5fac1206", 
+        "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/commits/d20be82aa197d9e3bf53cc3eddb7070c5fac1206"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/17608?v=4", 
+            "events_url": "https://api.github.com/users/danielneis/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/danielneis/followers", 
+            "following_url": "https://api.github.com/users/danielneis/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/danielneis/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/danielneis", 
+            "id": 17608, 
+            "login": "danielneis", 
+            "node_id": "MDQ6VXNlcjE3NjA4", 
+            "organizations_url": "https://api.github.com/users/danielneis/orgs", 
+            "received_events_url": "https://api.github.com/users/danielneis/received_events", 
+            "repos_url": "https://api.github.com/users/danielneis/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/danielneis/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/danielneis/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/danielneis"
+        }, 
+        "comments_url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/commits/4e26d26ebd4a8cb7af36f2f858c351d8654bbcef/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-08T17:41:05Z", 
+                "email": "danielneis@gmail.com", 
+                "name": "Daniel Neis Araujo"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-08T17:41:05Z", 
+                "email": "danielneis@gmail.com", 
+                "name": "Daniel Neis Araujo"
+            }, 
+            "message": "readme", 
+            "tree": {
+                "sha": "6063566d257ac863df49995cd82a3beb5cd0c9b5", 
+                "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/git/trees/6063566d257ac863df49995cd82a3beb5cd0c9b5"
+            }, 
+            "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/git/commits/4e26d26ebd4a8cb7af36f2f858c351d8654bbcef", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/17608?v=4", 
+            "events_url": "https://api.github.com/users/danielneis/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/danielneis/followers", 
+            "following_url": "https://api.github.com/users/danielneis/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/danielneis/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/danielneis", 
+            "id": 17608, 
+            "login": "danielneis", 
+            "node_id": "MDQ6VXNlcjE3NjA4", 
+            "organizations_url": "https://api.github.com/users/danielneis/orgs", 
+            "received_events_url": "https://api.github.com/users/danielneis/received_events", 
+            "repos_url": "https://api.github.com/users/danielneis/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/danielneis/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/danielneis/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/danielneis"
+        }, 
+        "html_url": "https://github.com/danielneis/crawling-dominiopublico.gov.br/commit/4e26d26ebd4a8cb7af36f2f858c351d8654bbcef", 
+        "node_id": "MDY6Q29tbWl0MjI3NjU4MTI6NGUyNmQyNmViZDRhOGNiN2FmMzZmMmY4NThjMzUxZDg2NTRiYmNlZg==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/danielneis/crawling-dominiopublico.gov.br/commit/e6a7a833f6d85b00e7f05c6f0d09403711697d7d", 
+                "sha": "e6a7a833f6d85b00e7f05c6f0d09403711697d7d", 
+                "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/commits/e6a7a833f6d85b00e7f05c6f0d09403711697d7d"
+            }
+        ], 
+        "sha": "4e26d26ebd4a8cb7af36f2f858c351d8654bbcef", 
+        "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/commits/4e26d26ebd4a8cb7af36f2f858c351d8654bbcef"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/17608?v=4", 
+            "events_url": "https://api.github.com/users/danielneis/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/danielneis/followers", 
+            "following_url": "https://api.github.com/users/danielneis/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/danielneis/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/danielneis", 
+            "id": 17608, 
+            "login": "danielneis", 
+            "node_id": "MDQ6VXNlcjE3NjA4", 
+            "organizations_url": "https://api.github.com/users/danielneis/orgs", 
+            "received_events_url": "https://api.github.com/users/danielneis/received_events", 
+            "repos_url": "https://api.github.com/users/danielneis/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/danielneis/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/danielneis/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/danielneis"
+        }, 
+        "comments_url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/commits/e6a7a833f6d85b00e7f05c6f0d09403711697d7d/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-08T17:26:54Z", 
+                "email": "danielneis@gmail.com", 
+                "name": "Daniel Neis Araujo"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-08T17:26:54Z", 
+                "email": "danielneis@gmail.com", 
+                "name": "Daniel Neis Araujo"
+            }, 
+            "message": "reunindo links para paginas de datalhes e download dos videos", 
+            "tree": {
+                "sha": "848a1c6e3f85dd0b34bd916cdb497fb08af8cc66", 
+                "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/git/trees/848a1c6e3f85dd0b34bd916cdb497fb08af8cc66"
+            }, 
+            "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/git/commits/e6a7a833f6d85b00e7f05c6f0d09403711697d7d", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/17608?v=4", 
+            "events_url": "https://api.github.com/users/danielneis/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/danielneis/followers", 
+            "following_url": "https://api.github.com/users/danielneis/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/danielneis/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/danielneis", 
+            "id": 17608, 
+            "login": "danielneis", 
+            "node_id": "MDQ6VXNlcjE3NjA4", 
+            "organizations_url": "https://api.github.com/users/danielneis/orgs", 
+            "received_events_url": "https://api.github.com/users/danielneis/received_events", 
+            "repos_url": "https://api.github.com/users/danielneis/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/danielneis/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/danielneis/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/danielneis"
+        }, 
+        "html_url": "https://github.com/danielneis/crawling-dominiopublico.gov.br/commit/e6a7a833f6d85b00e7f05c6f0d09403711697d7d", 
+        "node_id": "MDY6Q29tbWl0MjI3NjU4MTI6ZTZhN2E4MzNmNmQ4NWIwMGU3ZjA1YzZmMGQwOTQwMzcxMTY5N2Q3ZA==", 
+        "parents": [
+            {
+                "html_url": "https://github.com/danielneis/crawling-dominiopublico.gov.br/commit/936e7d9f11fed0ff33792e68b0aab0520b74b814", 
+                "sha": "936e7d9f11fed0ff33792e68b0aab0520b74b814", 
+                "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/commits/936e7d9f11fed0ff33792e68b0aab0520b74b814"
+            }
+        ], 
+        "sha": "e6a7a833f6d85b00e7f05c6f0d09403711697d7d", 
+        "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/commits/e6a7a833f6d85b00e7f05c6f0d09403711697d7d"
+    }, 
+    {
+        "author": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/17608?v=4", 
+            "events_url": "https://api.github.com/users/danielneis/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/danielneis/followers", 
+            "following_url": "https://api.github.com/users/danielneis/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/danielneis/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/danielneis", 
+            "id": 17608, 
+            "login": "danielneis", 
+            "node_id": "MDQ6VXNlcjE3NjA4", 
+            "organizations_url": "https://api.github.com/users/danielneis/orgs", 
+            "received_events_url": "https://api.github.com/users/danielneis/received_events", 
+            "repos_url": "https://api.github.com/users/danielneis/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/danielneis/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/danielneis/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/danielneis"
+        }, 
+        "comments_url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/commits/936e7d9f11fed0ff33792e68b0aab0520b74b814/comments", 
+        "commit": {
+            "author": {
+                "date": "2014-08-08T17:15:19Z", 
+                "email": "danielneis@gmail.com", 
+                "name": "Daniel Neis Araujo"
+            }, 
+            "comment_count": 0, 
+            "committer": {
+                "date": "2014-08-08T17:15:19Z", 
+                "email": "danielneis@gmail.com", 
+                "name": "Daniel Neis Araujo"
+            }, 
+            "message": "separando as urls com detalhes e para download", 
+            "tree": {
+                "sha": "c212e7b65dee304654a729665a6c945d34521879", 
+                "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/git/trees/c212e7b65dee304654a729665a6c945d34521879"
+            }, 
+            "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/git/commits/936e7d9f11fed0ff33792e68b0aab0520b74b814", 
+            "verification": {
+                "payload": null, 
+                "reason": "unsigned", 
+                "signature": null, 
+                "verified": false
+            }
+        }, 
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/17608?v=4", 
+            "events_url": "https://api.github.com/users/danielneis/events{/privacy}", 
+            "followers_url": "https://api.github.com/users/danielneis/followers", 
+            "following_url": "https://api.github.com/users/danielneis/following{/other_user}", 
+            "gists_url": "https://api.github.com/users/danielneis/gists{/gist_id}", 
+            "gravatar_id": "", 
+            "html_url": "https://github.com/danielneis", 
+            "id": 17608, 
+            "login": "danielneis", 
+            "node_id": "MDQ6VXNlcjE3NjA4", 
+            "organizations_url": "https://api.github.com/users/danielneis/orgs", 
+            "received_events_url": "https://api.github.com/users/danielneis/received_events", 
+            "repos_url": "https://api.github.com/users/danielneis/repos", 
+            "site_admin": false, 
+            "starred_url": "https://api.github.com/users/danielneis/starred{/owner}{/repo}", 
+            "subscriptions_url": "https://api.github.com/users/danielneis/subscriptions", 
+            "type": "User", 
+            "url": "https://api.github.com/users/danielneis"
+        }, 
+        "html_url": "https://github.com/danielneis/crawling-dominiopublico.gov.br/commit/936e7d9f11fed0ff33792e68b0aab0520b74b814", 
+        "node_id": "MDY6Q29tbWl0MjI3NjU4MTI6OTM2ZTdkOWYxMWZlZDBmZjMzNzkyZTY4YjBhYWIwNTIwYjc0YjgxNA==", 
+        "parents": [], 
+        "sha": "936e7d9f11fed0ff33792e68b0aab0520b74b814", 
+        "url": "https://api.github.com/repos/danielneis/crawling-dominiopublico.gov.br/commits/936e7d9f11fed0ff33792e68b0aab0520b74b814"
+    }
+]

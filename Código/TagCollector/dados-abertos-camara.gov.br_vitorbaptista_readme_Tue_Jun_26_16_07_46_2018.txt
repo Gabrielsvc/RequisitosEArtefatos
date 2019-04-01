@@ -1,0 +1,53 @@
+{
+    "_links": {
+        "git": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/blobs/79a9ba73115d6b744326f4ea1e6644a908b0b7e2", 
+        "html": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/blob/master/README.md", 
+        "self": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/contents/README.md?ref=master"
+    }, 
+    "content": "RGFkb3MgQWJlcnRvcyBjYW1hcmEuZ292LmJyCj09PT09PT09PT09PT09PT09\nPT09PT09PT09PQoKQSBDw6JtYXJhIGRvcyBEZXB1dGFkb3MgZGlzcG9uaWJp\nbGl6YSB2w6FyaW9zIGRhZG9zIHJlbGFjaW9uYWRvcyBhIGF0aXZpZGFkZQps\nZWdpc2xhdGl2YSBlIGNvdGEgcGFybGFtZW50YXIgZW0KaHR0cDovL3d3dzIu\nY2FtYXJhLmxlZy5ici90cmFuc3BhcmVuY2lhL2RhZG9zLWFiZXJ0b3MuIElu\nZmVsaXptZW50ZSwgYXBlc2FyIGRlCm9mZXJlY2VyIHVtYSBBUEksIGVsZXMg\nbsOjbyBkaXNwb25pYmlsaXphcmFtIHVtIGR1bXAgY29tIG9zIGRhZG9zIGNv\nbXBsZXRvcy4KCk5lc3RlIHJlcG9zaXTDs3JpbyBpcmVpIG9yZ2FuaXphciBz\nY3JhcGVycyBwYXJhIGEgQVBJIGUsIG5hIHBhc3RhIGBkYXRhL2AsIG8KZHVt\ncCBhdHVhbGl6YWRvIGRvIHF1ZSBleHRyYcOtIGRlIGzDoS4gRGVzc2EgZm9y\nbWEsIGNhc28gb3V0cmEgcGVzc29hIHByZWNpc2UKZGVzc2EgbWVzbWEgaW5m\nb3JtYcOnw6NvLCBuw6NvIHByZWNpc2Fyw6EgcGVyZGVyIHRlbXBvLCBlIG5l\nbSBvY3VwYXIgYXMgbcOhcXVpbmFzIGRhCkPDom1hcmEgYmFpeGFuZG8gb3Mg\nZGFkb3MuCgpJbnN0cnXDp8O1ZXMKLS0tLS0tLS0tLQoKUGFyYSBhdHVhbGl6\nYXIgb3MgZGFkb3MsIMOpIHByZWNpc28gcHJpbWVpcmFtZW50ZSBpbnN0YWxh\nciBhcyBkZXBlbmTDqm5jaWFzLiBSZWNvbWVuZG8KdXNhciBvIGB2aXJ0dWFs\nZW52YCBwYXJhIGlzb2xhciBhcyBkZXBlbmTDqm5jaWFzIGRlc3NlIHByb2pl\ndG8gZGFzIG91dHJhcyBubyBzZXUKY29tcHV0YWRvci4gUGFyYSBpc3NvLCBm\nYcOnYToKCmBgYAp2aXJ0dWFsZW52IC0tbm8tc2l0ZS1wYWNrYWdlcyB2ZW52\nCnBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQKYGBgCgpVbWEgdmV6\nIGluc3RhbGFkYXMsIGZhw6dhOgoKYGBgCnNvdXJjZSAuL3ZlbnYKbWFrZSAt\nLWFsd2F5cy1tYWtlCmBgYAoKSXNzbyBpcsOhIGF0dWFsaXphciB0b2RvcyBv\ncyBkYWRvcy4gQ29tbyBvIFNjcmFweSBuw6NvIHN1cG9ydGEgYXR1YWxpemHD\np8O1ZXMgaW5jcmVtZW50YWlzLApvIHF1ZSDDqSBmZWl0byDDqSBhcGFnYXIg\nbyBxdWUgasOhIGZvaSBiYWl4YWRvIGUgYnVzY2FyIHR1ZG8gbm92YW1lbnRl\nLiBQb3IgaXNzbywgZXNzYQphdHVhbGl6YcOnw6NvIHBvZGUgZGVtb3JhciB1\nbSBwb3Vjby4gU2Ugdm9jw6ogdGl2ZXIgdGVtcG8gcGFyYSByZXNvbHZlciBl\nc3NlIHByb2JsZW1hLApjb250cmlidWnDp8O1ZXMgc8OjbyBtdWl0byBiZW0g\ndmluZGFzLgo=\n", 
+    "download_url": "https://raw.githubusercontent.com/vitorbaptista/dados-abertos-camara.gov.br/master/README.md", 
+    "encoding": "base64", 
+    "git_url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/git/blobs/79a9ba73115d6b744326f4ea1e6644a908b0b7e2", 
+    "html_url": "https://github.com/vitorbaptista/dados-abertos-camara.gov.br/blob/master/README.md", 
+    "name": "README.md", 
+    "path": "README.md", 
+    "sha": "79a9ba73115d6b744326f4ea1e6644a908b0b7e2", 
+    "size": 1268, 
+    "type": "file", 
+    "url": "https://api.github.com/repos/vitorbaptista/dados-abertos-camara.gov.br/contents/README.md?ref=master"
+}Dados Abertos camara.gov.br
+===========================
+
+A Câmara dos Deputados disponibiliza vários dados relacionados a atividade
+legislativa e cota parlamentar em
+http://www2.camara.leg.br/transparencia/dados-abertos. Infelizmente, apesar de
+oferecer uma API, eles não disponibilizaram um dump com os dados completos.
+
+Neste repositório irei organizar scrapers para a API e, na pasta `data/`, o
+dump atualizado do que extraí de lá. Dessa forma, caso outra pessoa precise
+dessa mesma informação, não precisará perder tempo, e nem ocupar as máquinas da
+Câmara baixando os dados.
+
+Instruções
+----------
+
+Para atualizar os dados, é preciso primeiramente instalar as dependências. Recomendo
+usar o `virtualenv` para isolar as dependências desse projeto das outras no seu
+computador. Para isso, faça:
+
+```
+virtualenv --no-site-packages venv
+pip install -r requirements.txt
+```
+
+Uma vez instaladas, faça:
+
+```
+source ./venv
+make --always-make
+```
+
+Isso irá atualizar todos os dados. Como o Scrapy não suporta atualizações incrementais,
+o que é feito é apagar o que já foi baixado e buscar tudo novamente. Por isso, essa
+atualização pode demorar um pouco. Se você tiver tempo para resolver esse problema,
+contribuições são muito bem vindas.

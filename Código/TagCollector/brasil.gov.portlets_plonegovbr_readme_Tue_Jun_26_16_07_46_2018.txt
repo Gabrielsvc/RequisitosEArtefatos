@@ -1,0 +1,98 @@
+{
+    "_links": {
+        "git": "https://api.github.com/repos/plonegovbr/brasil.gov.portlets/git/blobs/9c5eb42147afd4fe972bc3623732d297cdcd43be", 
+        "html": "https://github.com/plonegovbr/brasil.gov.portlets/blob/master/README.rst", 
+        "self": "https://api.github.com/repos/plonegovbr/brasil.gov.portlets/contents/README.rst?ref=master"
+    }, 
+    "content": "KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq\nKioqKioqKioqKioqKioqKioqCi5nb3YuYnI6IFBhY290ZSBkZSBQb3J0bGV0\ncwoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq\nKioqKioqKioqKioqKioqKioqKioKCi4uIGNvbnRlbnRzOjogQ29udGXDumRv\nCiAgIDpkZXB0aDogMgoKSW50cm9kdcOnw6NvCj09PT09PT09PT0KCkVzdGUg\ncGFjb3RlIHByb3bDqiBhIGluc3RhbGHDp8OjbyBkZSBwcm9kdXRvIGNvbSBw\nYWNvdGUgZGUgcG9ydGxldHMgbXVsdGltw61kaWEgc2VndWluZG8gcGFkcsOj\nbyBkZSBlc3RpbGl6YcOnw6NvIGRvIFBvcnRhbCBQYWRyw6NvLgoKUmVxdWlz\naXRvcwo9PT09PT09PT09CgpFc3RlIHBhY290ZSBmb2kgZGVzZW52b2x2aWRv\nIGVzcGVjaWZpY2FkYW1lbnRlIHBhcmEgbyBQb3J0YWwgUGFkcsOjbywgZGVz\nc2EgZm9ybWEsIHBhcmEgdXNvIHNlbSBlcnJvcyBkZSBmdW5jaW9uYWxpZGFk\nZXMgZSBlc3RpbGl6YcOnw6NvIMOpIGluZGljYWRvIHF1ZSBzZWphIHV0aWxp\nemFkbyBjb21vIGNvbXBsZW1lbnRvIGFvIFBvcnRhbCBQYWRyw6NvLgoKCkVz\ndGFkbyBkZXN0ZSBwYWNvdGUKPT09PT09PT09PT09PT09PT09PQoKTyAqKmJy\nYXNpbC5nb3YucG9ydGxldHMqKiB0ZW0gdGVzdGVzIGF1dG9tYXRpemFkb3Mg\nZSwgYSBjYWRhIGFsdGVyYcOnw6NvIGVtIHNldQpjw7NkaWdvIG9zIHRlc3Rl\ncyBzw6NvIGV4ZWN1dGFkb3MgcGVsbyBzZXJ2acOnbyBUcmF2aXMuCgpPIGVz\ndGFkbyBhdHVhbCBkb3MgdGVzdGVzIHBvZGUgc2VyIHZpc3RvIG5hcyBpbWFn\nZW5zIGEgc2VndWlyOgoKLi4gaW1hZ2U6OiBodHRwOi8vaW1nLnNoaWVsZHMu\naW8vcHlwaS92L2JyYXNpbC5nb3YucG9ydGxldHMuc3ZnCiAgICA6dGFyZ2V0\nOiBodHRwczovL3B5cGkucHl0aG9uLm9yZy9weXBpL2JyYXNpbC5nb3YucG9y\ndGxldHMKCi4uIGltYWdlOjogaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby90cmF2\naXMvcGxvbmVnb3Zici9icmFzaWwuZ292LnBvcnRsZXRzL21hc3Rlci5zdmcK\nICAgIDp0YXJnZXQ6IGh0dHA6Ly90cmF2aXMtY2kub3JnL3Bsb25lZ292YnIv\nYnJhc2lsLmdvdi5wb3J0bGV0cwoKLi4gaW1hZ2U6OiBodHRwczovL2ltZy5z\naGllbGRzLmlvL2NvdmVyYWxscy9wbG9uZWdvdmJyL2JyYXNpbC5nb3YucG9y\ndGxldHMvbWFzdGVyLnN2ZwogICAgOnRhcmdldDogaHR0cHM6Ly9jb3ZlcmFs\nbHMuaW8vci9wbG9uZWdvdmJyL2JyYXNpbC5nb3YucG9ydGxldHMKCkluc3Rh\nbGHDp8Ojbwo9PT09PT09PT09CgpQYXJhIGhhYmlsaXRhciBhIGluc3RhbGHD\np8OjbyBkZXN0ZSBwcm9kdXRvIGVtIHVtIGFtYmllbnRlIHF1ZSB1dGlsaXpl\nIG8KYnVpbGRvdXQ6CgoxLiBFZGl0YXIgbyBhcnF1aXZvIGJ1aWxkb3V0LmNm\nZyAob3Ugb3V0cm8gYXJxdWl2byBkZSBjb25maWd1cmHDp8OjbykgZQogICBh\nZGljaW9uYXIgbyBwYWNvdGUgYGBicmFzaWwuZ292LnBvcnRsZXRzYGAgw6Ag\nbGlzdGEgZGUgZWdncyBkYSBpbnN0YWxhw6fDo286OgoKICAgICAgICBbYnVp\nbGRvdXRdCiAgICAgICAgLi4uCiAgICAgICAgZWdncyA9CiAgICAgICAgICAg\nIGJyYXNpbC5nb3YucG9ydGxldHMKCjIuIEFww7NzIGFsdGVyYXIgbyBhcnF1\naXZvIGRlIGNvbmZpZ3VyYcOnw6NvIMOpIG5lY2Vzc8OhcmlvIGV4ZWN1dGFy\nCiAgICcnYmluL2J1aWxkb3V0JycsIHF1ZSBhdHVhbGl6YXLDoSBzdWEgaW5z\ndGFsYcOnw6NvLgoKMy4gUmVpbmljaWUgbyBQbG9uZQoKNC4gQWNlc3NlIG8g\ncGFpbmVsIGRlIGNvbnRyb2xlIGUgaW5zdGFsZSBvIHByb2R1dG8KKipicmFz\naWwuZ292LnBvcnRsZXRzOiBJbnN0YWxhw6fDo28gZG8gUGFjb3RlKiouCgpS\nb2RhbmRvIG8gYnVpbGRvdXQgZGUgdW1hIHRhZyBhbnRpZ2EgZG8gcGFjb3Rl\nCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t\nLS0KClBhcmEgYXRlbmRlciBhbyByZWxhdG8gZGUgdGVyIHbDoXJpb3Mgam9i\ncyBkZSBpbnRlZ3Jhw6fDo28gY29udMOtbnVhIGVtIHBhY290ZXMgYnJhc2ls\nLmdvdi4qICh2ZXIgaHR0cHM6Ly9naXRodWIuY29tL3Bsb25lZ292YnIvcG9y\ndGFscGFkcmFvLnJlbGVhc2UvaXNzdWVzLzExKSwgbm8gZmltIGRhIHNlw6fD\no28gZXh0ZW5kcyBkbyBidWlsZG91dC5jZmcgZGUgdG9kb3Mgb3MgcGFjb3Rl\ncyBicmFzaWwuZ292LiogdGVtb3MgYSBzZWd1aW50ZSBsaW5oYToKCi4uIGNv\nZGUtYmxvY2s6OiBjZmcKCiAgICBodHRwczovL3Jhdy5naXRodWJ1c2VyY29u\ndGVudC5jb20vcGxvbmVnb3Zici9wb3J0YWwuYnVpbGRvdXQvbWFzdGVyL2J1\naWxkb3V0LmQvdmVyc2lvbnMuY2ZnCgpIb2plLCBlc3NlIGFycXVpdm8gY29u\ndMOpbSBzZW1wcmUgYXMgdmVyc8O1ZXMgcGluYWRhcyBkZSB1bSByZWxlYXNl\nIGEgc2VyIGxhbsOnYWRvLiBQb3IgZXNzZSBtb3Rpdm8sIHF1YW5kbyDDqSBm\nZWl0byBvIGNoZWNrb3V0IGRlIHVtYSB0YWcgbWFpcyBhbnRpZ2EgcHJvdmF2\nZWxtZW50ZSB2b2PDqiBuw6NvIGNvbnNlZ3VpcsOhIHJvZGFyIG8gYnVpbGRv\ndXQuIERlc3NhIGZvcm1hLCBhcMOzcyBmYXplciBvIGNoZWNrb3V0IGRlIHVt\nYSB0YWcgYW50aWdhLCByZWNvbWVuZGFtb3MgcXVlIGFkaWNpb25lLCBuYSDD\numx0aW1hIGxpbmhhIGRvIGV4dGVuZHMsIG8gYXJxdWl2byBkZSB2ZXJzw7Vl\ncyBkbyBJREcgY29tcGF0w612ZWwgY29tIGFxdWVsYSB0YWcsIHByZXNlbnRl\nIG5vIHJlcG9zaXTDs3JpbyBodHRwczovL2dpdGh1Yi5jb20vcGxvbmVnb3Zi\nci9wb3J0YWxwYWRyYW8ucmVsZWFzZS8uCgpFeGVtcGxvOiB2b2PDqiBjbG9u\nb3UgbyByZXBvc2l0w7NyaW8gZG8gYnJhc2lsLmdvdi5wb3J0YWwgbmEgc3Vh\nIG3DoXF1aW5hLCBlIGRldSBjaGVja291dCBuYSB0YWcgMS4wLjUuIEFvIGVk\naXRhciBvIGJ1aWxkb3V0LmNmZywgZmljYXJpYSBkZXNzYSBmb3JtYSwgasOh\nIGNvbSBhIMO6bHRpbWEgbGluaGEgYWRpY2lvbmFkYToKCi4uIGNvZGUtYmxv\nY2s6OiBjZmcKCiAgICBleHRlbmRzID0KICAgICAgICBodHRwczovL3Jhdy5n\naXRodWIuY29tL2NvbGxlY3RpdmUvYnVpbGRvdXQucGxvbmV0ZXN0L21hc3Rl\nci90ZXN0LTQuMy54LmNmZwogICAgICAgIGh0dHBzOi8vcmF3LmdpdGh1Yi5j\nb20vY29sbGVjdGl2ZS9idWlsZG91dC5wbG9uZXRlc3QvbWFzdGVyL3FhLmNm\nZwogICAgICAgIGh0dHA6Ly9kb3dubG9hZHMucGxvbmUub3JnLmJyL3JlbGVh\nc2UvMS4wLjQvdmVyc2lvbnMuY2ZnCiAgICAgICAgaHR0cHM6Ly9yYXcuZ2l0\naHVidXNlcmNvbnRlbnQuY29tL3Bsb25lZ292YnIvcG9ydGFsLmJ1aWxkb3V0\nL21hc3Rlci9idWlsZG91dC5kL3ZlcnNpb25zLmNmZwogICAgICAgIGh0dHBz\nOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9wbG9uZS9wbG9uZS5hcHAu\ncm9ib3RmcmFtZXdvcmsvbWFzdGVyL3ZlcnNpb25zLmNmZwogICAgICAgIGh0\ndHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9wbG9uZWdvdmJyL3Bv\ncnRhbHBhZHJhby5yZWxlYXNlL21hc3Rlci8xLjAuNS92ZXJzaW9ucy5jZmcK\nICAgICAgICAKUGFyYSBzYWJlciBxdWFsIGFycXVpdm8gZGUgdmVyc8O1ZXMg\nw6kgY29tcGF0w612ZWwsIG5vIGNhc28gZG8gYnJhc2lsLmdvdi5wb3J0YWws\nIMOpIHNpbXBsZXMgcG9pcyDDqSBhIG1lc21hIHZlcnPDo28gKG5vIG3DoXhp\nbW8gdW0gYnVnIGZpeCwgcG9yIGV4ZW1wbG8sIGJyYXNpbC5nb3YucG9ydGFs\nIMOpIDEuMS4zIGUgbyBhcnF1aXZvIGRlIHZlcnPDo28gw6kgMS4xLjMuMSku\nIFBhcmEgb3MgZGVtYWlzIHBhY290ZXMsIHJlY29tZW5kYW1vcyBjb21wYXJh\nciBhIGRhdGEgZGEgdGFnIGRvIHBhY290ZSBlIGEgZGF0YSBub3MgY2hhbmdl\nbG9nIGVudHJlIHVtYSB2ZXJzw6NvIGUgb3V0cmEgcGFyYSBhZGl2aW5oYXIg\nYSB2ZXJzw6NvIGNvbXBhdMOtdmVsLgo=\n", 
+    "download_url": "https://raw.githubusercontent.com/plonegovbr/brasil.gov.portlets/master/README.rst", 
+    "encoding": "base64", 
+    "git_url": "https://api.github.com/repos/plonegovbr/brasil.gov.portlets/git/blobs/9c5eb42147afd4fe972bc3623732d297cdcd43be", 
+    "html_url": "https://github.com/plonegovbr/brasil.gov.portlets/blob/master/README.rst", 
+    "name": "README.rst", 
+    "path": "README.rst", 
+    "sha": "9c5eb42147afd4fe972bc3623732d297cdcd43be", 
+    "size": 3893, 
+    "type": "file", 
+    "url": "https://api.github.com/repos/plonegovbr/brasil.gov.portlets/contents/README.rst?ref=master"
+}***************************************************************
+.gov.br: Pacote de Portlets
+***************************************************************
+
+.. contents:: Conteúdo
+   :depth: 2
+
+Introdução
+==========
+
+Este pacote provê a instalação de produto com pacote de portlets multimídia seguindo padrão de estilização do Portal Padrão.
+
+Requisitos
+==========
+
+Este pacote foi desenvolvido especificadamente para o Portal Padrão, dessa forma, para uso sem erros de funcionalidades e estilização é indicado que seja utilizado como complemento ao Portal Padrão.
+
+
+Estado deste pacote
+===================
+
+O **brasil.gov.portlets** tem testes automatizados e, a cada alteração em seu
+código os testes são executados pelo serviço Travis.
+
+O estado atual dos testes pode ser visto nas imagens a seguir:
+
+.. image:: http://img.shields.io/pypi/v/brasil.gov.portlets.svg
+    :target: https://pypi.python.org/pypi/brasil.gov.portlets
+
+.. image:: https://img.shields.io/travis/plonegovbr/brasil.gov.portlets/master.svg
+    :target: http://travis-ci.org/plonegovbr/brasil.gov.portlets
+
+.. image:: https://img.shields.io/coveralls/plonegovbr/brasil.gov.portlets/master.svg
+    :target: https://coveralls.io/r/plonegovbr/brasil.gov.portlets
+
+Instalação
+==========
+
+Para habilitar a instalação deste produto em um ambiente que utilize o
+buildout:
+
+1. Editar o arquivo buildout.cfg (ou outro arquivo de configuração) e
+   adicionar o pacote ``brasil.gov.portlets`` à lista de eggs da instalação::
+
+        [buildout]
+        ...
+        eggs =
+            brasil.gov.portlets
+
+2. Após alterar o arquivo de configuração é necessário executar
+   ''bin/buildout'', que atualizará sua instalação.
+
+3. Reinicie o Plone
+
+4. Acesse o painel de controle e instale o produto
+**brasil.gov.portlets: Instalação do Pacote**.
+
+Rodando o buildout de uma tag antiga do pacote
+----------------------------------------------
+
+Para atender ao relato de ter vários jobs de integração contínua em pacotes brasil.gov.* (ver https://github.com/plonegovbr/portalpadrao.release/issues/11), no fim da seção extends do buildout.cfg de todos os pacotes brasil.gov.* temos a seguinte linha:
+
+.. code-block:: cfg
+
+    https://raw.githubusercontent.com/plonegovbr/portal.buildout/master/buildout.d/versions.cfg
+
+Hoje, esse arquivo contém sempre as versões pinadas de um release a ser lançado. Por esse motivo, quando é feito o checkout de uma tag mais antiga provavelmente você não conseguirá rodar o buildout. Dessa forma, após fazer o checkout de uma tag antiga, recomendamos que adicione, na última linha do extends, o arquivo de versões do IDG compatível com aquela tag, presente no repositório https://github.com/plonegovbr/portalpadrao.release/.
+
+Exemplo: você clonou o repositório do brasil.gov.portal na sua máquina, e deu checkout na tag 1.0.5. Ao editar o buildout.cfg, ficaria dessa forma, já com a última linha adicionada:
+
+.. code-block:: cfg
+
+    extends =
+        https://raw.github.com/collective/buildout.plonetest/master/test-4.3.x.cfg
+        https://raw.github.com/collective/buildout.plonetest/master/qa.cfg
+        http://downloads.plone.org.br/release/1.0.4/versions.cfg
+        https://raw.githubusercontent.com/plonegovbr/portal.buildout/master/buildout.d/versions.cfg
+        https://raw.githubusercontent.com/plone/plone.app.robotframework/master/versions.cfg
+        https://raw.githubusercontent.com/plonegovbr/portalpadrao.release/master/1.0.5/versions.cfg
+        
+Para saber qual arquivo de versões é compatível, no caso do brasil.gov.portal, é simples pois é a mesma versão (no máximo um bug fix, por exemplo, brasil.gov.portal é 1.1.3 e o arquivo de versão é 1.1.3.1). Para os demais pacotes, recomendamos comparar a data da tag do pacote e a data nos changelog entre uma versão e outra para adivinhar a versão compatível.

@@ -1,0 +1,75 @@
+{
+    "_links": {
+        "git": "https://api.github.com/repos/cemsbr/dados.gov.br/git/blobs/e675920f72690059265ac841bbefc0e51b5dad23", 
+        "html": "https://github.com/cemsbr/dados.gov.br/blob/master/README.md", 
+        "self": "https://api.github.com/repos/cemsbr/dados.gov.br/contents/README.md?ref=master"
+    }, 
+    "content": "VmlzdWFsaXphw6fDo28KPT09PT09PT09PT09CgpQYXJhIGFwZW5hcyB2aXN1\nYWxpemFyIHVtIGFycXVpdm8sIGJhc3RhIGNsaWNhciBlbSBzZXUgbm9tZSBh\nIHBhcnRpciBkYSBww6FnaW5hCmRvIHByb2pldG8gbm8gR2l0SHViLCBtYXMg\nKipuw6NvIG5hIHZlcnPDo28gX21vYmlsZV8qKiAobyBHaXRIdWIgZXhpYmly\nw6EgYXBlbmFzIG8KY8OzZGlnbyBmb250ZSBuYSB2ZXJzw6NvIHBhcmEgY2Vs\ndWxhcikuIENvbmZpcmEgbyBxdWUgaMOhIGVtIGNhZGEgYXJxdWl2bzoKCiog\nKipPdXRsaWVycy5pcHluYioqOiBkZXRlY8Onw6NvIGRlICpwb250b3MgZm9y\nYSBkYSBjdXJ2YSogbm9zIGdhc3RvcyBkYSBjb3RhIHBhcmEKbyBleGVyY8Ot\nY2lvIGRhIGF0aXZpZGFkZSBwYXJsYW1lbnRhci4KCkluc3RhbGHDp8Ojbwo9\nPT09PT09PT09CgpVc2FyZW1vcyAqdmlydHVhbGVudiogcGFyYSBpbnN0YWxh\nciBwYWNvdGVzIFB5dGhvbiBuYSB2ZXJzw6NvIGFkZXF1YWRhIGRlbnRybyBk\nYQpwYXN0YSAqdmVudiouCgpSZXF1aXNpdG9zCi0tLS0tLS0tLS0KKiBQeXRo\nb24gMy41LjIgb3UgbWFpcyByZWNlbnRlIChuw6NvIHRlc3RhZG8gY29tIHZl\ncnPDtWVzIGFudGVyaW9yZXMpCgpQYXJhIGluc3RhbGFyIG9zIGRlbWFpcyBy\nZXF1aXNpdG9zLCBwcmltZWlybyBjcmllIGUgYXRpdmUgbyBhbWJpZW50ZSBk\nZXN0YQpwYXN0YS4gRW0gTGludXgsIGV4ZWN1dGU6CmBgYGJhc2gKcHl2ZW52\nIHZlbnYKc291cmNlIHZlbnYvYmluL2FjdGl2YXRlCmBgYApQYXJhIFdpbmRv\nd3M6CmBgYGJhdApweXZlbnYgdmVudgp2ZW52XFNjcmlwdHNcYWN0aXZhdGUu\nYmF0CmBgYAoKQXR1YWxpemUgb3MgcGFjb3RlcyBiw6FzaWNvczoKYGBgCnBp\ncCBpbnN0YWxsIC0tdXBncmFkZSBwaXAgc2V0dXB0b29scwpgYGAKClBvciBm\naW0sIGluc3RhbGUgb3MgZGVtYWlzIHJlcXVpc2l0b3M6CmBgYApwaXAgaW5z\ndGFsbCAtciByZXF1aXNpdG9zLnR4dCAtLXVwZ3JhZGUKYGBgCgpFeGVjdXRh\nbmRvCj09PT09PT09PT0KQ2FzbyBhaW5kYSBuw6NvIHRlbmhhIGF0aXZhZG8g\nbyB2aXJ0dWFsZW52IG5hIGphbmVsYSBhdHVhbCwgYXRpdmUtbzoKYGBgYmFz\naAojIFBhcmEgTGludXgKc291cmNlIHZlbnYvYmluL2FjdGl2YXRlCmBgYApg\nYGBiYXQKUkVNIFBhcmEgV2luZG93cwp2ZW52XFNjcmlwdHNcYWN0aXZhdGUu\nYmF0CmBgYAoKRGVwb2lzLCBleGVjdXRlIGBqdXB5dGVyIG5vdGVib29rYCBl\nIHVtYSBww6FnaW5hIGFicmlyw6Egbm8gc2V1IG5hdmVnYWRvci4KQ2xpcXVl\nIG5vIGFycXVpdm8gXyouaXB5bmJfIGRlc2VqYWRvIHBhcmEgdmlzdWFsaXrD\noS1sby4KUGFyYSBleGVjdXRhciBvIGPDs2RpZ28gZSBjYWxjdWxhciBvcyBy\nZXN1bHRhZG9zIG5vdmFtZW50ZSwKdsOhIGVtICpDZWxsKiwgY2xpcXVlIGVt\nICpSdW4gYWxsKiBlIGFndWFyZGUuCg==\n", 
+    "download_url": "https://raw.githubusercontent.com/cemsbr/dados.gov.br/master/README.md", 
+    "encoding": "base64", 
+    "git_url": "https://api.github.com/repos/cemsbr/dados.gov.br/git/blobs/e675920f72690059265ac841bbefc0e51b5dad23", 
+    "html_url": "https://github.com/cemsbr/dados.gov.br/blob/master/README.md", 
+    "name": "README.md", 
+    "path": "README.md", 
+    "sha": "e675920f72690059265ac841bbefc0e51b5dad23", 
+    "size": 1417, 
+    "type": "file", 
+    "url": "https://api.github.com/repos/cemsbr/dados.gov.br/contents/README.md?ref=master"
+}Visualização
+============
+
+Para apenas visualizar um arquivo, basta clicar em seu nome a partir da página
+do projeto no GitHub, mas **não na versão _mobile_** (o GitHub exibirá apenas o
+código fonte na versão para celular). Confira o que há em cada arquivo:
+
+* **Outliers.ipynb**: detecção de *pontos fora da curva* nos gastos da cota para
+o exercício da atividade parlamentar.
+
+Instalação
+==========
+
+Usaremos *virtualenv* para instalar pacotes Python na versão adequada dentro da
+pasta *venv*.
+
+Requisitos
+----------
+* Python 3.5.2 ou mais recente (não testado com versões anteriores)
+
+Para instalar os demais requisitos, primeiro crie e ative o ambiente desta
+pasta. Em Linux, execute:
+```bash
+pyvenv venv
+source venv/bin/activate
+```
+Para Windows:
+```bat
+pyvenv venv
+venv\Scripts\activate.bat
+```
+
+Atualize os pacotes básicos:
+```
+pip install --upgrade pip setuptools
+```
+
+Por fim, instale os demais requisitos:
+```
+pip install -r requisitos.txt --upgrade
+```
+
+Executando
+==========
+Caso ainda não tenha ativado o virtualenv na janela atual, ative-o:
+```bash
+# Para Linux
+source venv/bin/activate
+```
+```bat
+REM Para Windows
+venv\Scripts\activate.bat
+```
+
+Depois, execute `jupyter notebook` e uma página abrirá no seu navegador.
+Clique no arquivo _*.ipynb_ desejado para visualizá-lo.
+Para executar o código e calcular os resultados novamente,
+vá em *Cell*, clique em *Run all* e aguarde.

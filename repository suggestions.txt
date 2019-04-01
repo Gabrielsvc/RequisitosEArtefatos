@@ -1,0 +1,14 @@
+GitHub - openhab/openhab1-addons: Add-ons for openHAB 1.x
+GitHub - siacs/Conversations: Conversations is an open source XMPP/Jabber client for the Android platform
+GitHub - Netflix/Hystrix: Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+GitHub - ReactiveX/RxJava: RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+GitHub - androidannotations/androidannotations: Fast Android Development. Easy maintainance.
+GitHub - square/picasso: A powerful image downloading and caching library for Android
+GitHub - apereo/cas: Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
+GitHub - robolectric/robolectric: Android Unit Testing Framework
+GitHub - dropwizard/metrics: Capturing JVM- and application-level metrics. So you know what's going on.
+GitHub - dropwizard/dropwizard: A damn simple library for building production-ready RESTful web services.
+  GitHub - tgem/crowdre-glossary: Automated Glossary Term Extraction from the CrowdRE Dataset
+aesuli/Amazon-downloader: Two perl scripts to download and parse Amazon's reviews
+nitanilla/NFRfinder: Discovering qualities (NFR) on requirements and annotated texts 
+https://github.com/thesourcerer8/CrowdRE

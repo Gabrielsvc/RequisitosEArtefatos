@@ -1,0 +1,89 @@
+{
+    "_links": {
+        "git": "https://api.github.com/repos/plonegovbr/brasil.gov.facetada/git/blobs/119a28cd1dfd4585f7cce96278bfef2bbd47a20d", 
+        "html": "https://github.com/plonegovbr/brasil.gov.facetada/blob/master/README.rst", 
+        "self": "https://api.github.com/repos/plonegovbr/brasil.gov.facetada/contents/README.rst?ref=master"
+    }, 
+    "content": "KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq\nKioqKioqKioqKioqKioqKioqCmAuZ292LmJyOiBTdXBvcnRlIGEgQnVzY2Eg\nTXVsdGlmYWNldGFkYWAKKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq\nKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCgouLiBjb250ZW50\nczo6IENvbnRlw7pkbwogICA6ZGVwdGg6IDIKCkludHJvZHXDp8OjbwotLS0t\nLS0tLS0tLQoKRXN0ZSBwYWNvdGUgcHJvdsOqIGEgaW5zdGFsYcOnw6NvIGRl\nIHByb2R1dG8gcGFyYSBidXNjYSBtdWx0aWZhY2V0YWRhLCBjdXN0b21pemHD\np8OjbyBkZSB2aXPDo28gc3Vtw6FyaWEgZSB3aWRnZXQgZGUgb3JkZW5hw6fD\no28gcGFyYSBvIGBQb3J0YWwgUGFkcsOjbyA8aHR0cDovL3BvcnRhbHBhZHJh\nby5wbG9uZS5vcmcuYnI+YF8uCgpFc3RhZG8gZGVzdGUgcGFjb3RlCi0tLS0t\nLS0tLS0tLS0tLS0tLS0tLQoKTyAqKmJyYXNpbC5nb3YuZmFjZXRhZGEqKiB0\nZW0gdGVzdGVzIGF1dG9tYXRpemFkb3MgZSwgYSBjYWRhIGFsdGVyYcOnw6Nv\nIGVtIHNldQpjw7NkaWdvIG9zIHRlc3RlcyBzw6NvIGV4ZWN1dGFkb3MgcGVs\nbyBzZXJ2acOnbyBUcmF2aXMuCgpPIGVzdGFkbyBhdHVhbCBkb3MgdGVzdGVz\nIHBvZGUgc2VyIHZpc3RvIG5hcyBpbWFnZW5zIGEgc2VndWlyOgoKLi4gaW1h\nZ2U6OiBodHRwczovL3NlY3VyZS50cmF2aXMtY2kub3JnL3Bsb25lZ292YnIv\nYnJhc2lsLmdvdi5mYWNldGFkYS5wbmc/YnJhbmNoPW1hc3RlcgogICAgOnRh\ncmdldDogaHR0cDovL3RyYXZpcy1jaS5vcmcvcGxvbmVnb3Zici9icmFzaWwu\nZ292LmZhY2V0YWRhCgouLiBpbWFnZTo6IGh0dHBzOi8vY292ZXJhbGxzLmlv\nL3JlcG9zL3Bsb25lZ292YnIvYnJhc2lsLmdvdi5mYWNldGFkYS9iYWRnZS5w\nbmc/YnJhbmNoPW1hc3RlcgogICAgOnRhcmdldDogaHR0cHM6Ly9jb3ZlcmFs\nbHMuaW8vci9wbG9uZWdvdmJyL2JyYXNpbC5nb3YuZmFjZXRhZGEKCkluc3Rh\nbGHDp8OjbwotLS0tLS0tLS0tLS0KClBhcmEgaGFiaWxpdGFyIGEgaW5zdGFs\nYcOnw6NvIGRlc3RlIHByb2R1dG8gZW0gdW0gYW1iaWVudGUgcXVlIHV0aWxp\nemUgbwpidWlsZG91dDoKCjEuIEVkaXRhciBvIGFycXVpdm8gYnVpbGRvdXQu\nY2ZnIChvdSBvdXRybyBhcnF1aXZvIGRlIGNvbmZpZ3VyYcOnw6NvKSBlCiAg\nIGFkaWNpb25hciBvIHBhY290ZSBgYGJyYXNpbC5nb3YuZmFjZXRhZGFgYCDD\noCBsaXN0YSBkZSBlZ2dzIGRhIGluc3RhbGHDp8Ojbzo6CgogICAgICAgIFti\ndWlsZG91dF0KICAgICAgICAuLi4KICAgICAgICBlZ2dzID0KICAgICAgICAg\nICAgYnJhc2lsLmdvdi5mYWNldGFkYQoKMi4gQXDDs3MgYWx0ZXJhciBvIGFy\ncXVpdm8gZGUgY29uZmlndXJhw6fDo28gw6kgbmVjZXNzw6FyaW8gZXhlY3V0\nYXIKICAgJydiaW4vYnVpbGRvdXQnJywgcXVlIGF0dWFsaXphcsOhIHN1YSBp\nbnN0YWxhw6fDo28uCgozLiBSZWluaWNpZSBvIFBsb25lCgo0LiBBY2Vzc2Ug\nbyBwYWluZWwgZGUgY29udHJvbGUgZSBpbnN0YWxlIG8gcHJvZHV0bwoqKi5n\nb3YuYnI6IEJ1c2NhIE11bHRpZmFjZXRhZGEqKi4KClJvZGFuZG8gbyBidWls\nZG91dCBkZSB1bWEgdGFnIGFudGlnYSBkbyBwYWNvdGUKLS0tLS0tLS0tLS0t\nLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKUGFyYSBhdGVu\nZGVyIGFvIHJlbGF0byBkZSB0ZXIgdsOhcmlvcyBqb2JzIGRlIGludGVncmHD\np8OjbyBjb250w61udWEgZW0gcGFjb3RlcyBicmFzaWwuZ292LiogKHZlciBo\ndHRwczovL2dpdGh1Yi5jb20vcGxvbmVnb3Zici9wb3J0YWxwYWRyYW8ucmVs\nZWFzZS9pc3N1ZXMvMTEpLCBubyBmaW0gZGEgc2XDp8OjbyBleHRlbmRzIGRv\nIGJ1aWxkb3V0LmNmZyBkZSB0b2RvcyBvcyBwYWNvdGVzIGJyYXNpbC5nb3Yu\nKiB0ZW1vcyBhIHNlZ3VpbnRlIGxpbmhhOgoKLi4gY29kZS1ibG9jazo6IGNm\nZwoKICAgIGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9wbG9u\nZWdvdmJyL3BvcnRhbC5idWlsZG91dC9tYXN0ZXIvYnVpbGRvdXQuZC92ZXJz\naW9ucy5jZmcKCkhvamUsIGVzc2UgYXJxdWl2byBjb250w6ltIHNlbXByZSBh\ncyB2ZXJzw7VlcyBwaW5hZGFzIGRlIHVtIHJlbGVhc2UgYSBzZXIgbGFuw6dh\nZG8uIFBvciBlc3NlIG1vdGl2bywgcXVhbmRvIMOpIGZlaXRvIG8gY2hlY2tv\ndXQgZGUgdW1hIHRhZyBtYWlzIGFudGlnYSBwcm92YXZlbG1lbnRlIHZvY8Oq\nIG7Do28gY29uc2VndWlyw6Egcm9kYXIgbyBidWlsZG91dC4gRGVzc2EgZm9y\nbWEsIGFww7NzIGZhemVyIG8gY2hlY2tvdXQgZGUgdW1hIHRhZyBhbnRpZ2Es\nIHJlY29tZW5kYW1vcyBxdWUgYWRpY2lvbmUsIG5hIMO6bHRpbWEgbGluaGEg\nZG8gZXh0ZW5kcywgbyBhcnF1aXZvIGRlIHZlcnPDtWVzIGRvIElERyBjb21w\nYXTDrXZlbCBjb20gYXF1ZWxhIHRhZywgcHJlc2VudGUgbm8gcmVwb3NpdMOz\ncmlvIGh0dHBzOi8vZ2l0aHViLmNvbS9wbG9uZWdvdmJyL3BvcnRhbHBhZHJh\nby5yZWxlYXNlLy4KCkV4ZW1wbG86IHZvY8OqIGNsb25vdSBvIHJlcG9zaXTD\ns3JpbyBkbyBicmFzaWwuZ292LnBvcnRhbCBuYSBzdWEgbcOhcXVpbmEsIGUg\nZGV1IGNoZWNrb3V0IG5hIHRhZyAxLjAuNS4gQW8gZWRpdGFyIG8gYnVpbGRv\ndXQuY2ZnLCBmaWNhcmlhIGRlc3NhIGZvcm1hLCBqw6EgY29tIGEgw7psdGlt\nYSBsaW5oYSBhZGljaW9uYWRhOgoKLi4gY29kZS1ibG9jazo6IGNmZwoKICAg\nIGV4dGVuZHMgPQogICAgICAgIGh0dHBzOi8vcmF3LmdpdGh1Yi5jb20vY29s\nbGVjdGl2ZS9idWlsZG91dC5wbG9uZXRlc3QvbWFzdGVyL3Rlc3QtNC4zLngu\nY2ZnCiAgICAgICAgaHR0cHM6Ly9yYXcuZ2l0aHViLmNvbS9jb2xsZWN0aXZl\nL2J1aWxkb3V0LnBsb25ldGVzdC9tYXN0ZXIvcWEuY2ZnCiAgICAgICAgaHR0\ncDovL2Rvd25sb2Fkcy5wbG9uZS5vcmcuYnIvcmVsZWFzZS8xLjAuNC92ZXJz\naW9ucy5jZmcKICAgICAgICBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVu\ndC5jb20vcGxvbmVnb3Zici9wb3J0YWwuYnVpbGRvdXQvbWFzdGVyL2J1aWxk\nb3V0LmQvdmVyc2lvbnMuY2ZnCiAgICAgICAgaHR0cHM6Ly9yYXcuZ2l0aHVi\ndXNlcmNvbnRlbnQuY29tL3Bsb25lL3Bsb25lLmFwcC5yb2JvdGZyYW1ld29y\nay9tYXN0ZXIvdmVyc2lvbnMuY2ZnCiAgICAgICAgaHR0cHM6Ly9yYXcuZ2l0\naHVidXNlcmNvbnRlbnQuY29tL3Bsb25lZ292YnIvcG9ydGFscGFkcmFvLnJl\nbGVhc2UvbWFzdGVyLzEuMC41L3ZlcnNpb25zLmNmZwogICAgICAgIApQYXJh\nIHNhYmVyIHF1YWwgYXJxdWl2byBkZSB2ZXJzw7VlcyDDqSBjb21wYXTDrXZl\nbCwgbm8gY2FzbyBkbyBicmFzaWwuZ292LnBvcnRhbCwgw6kgc2ltcGxlcyBw\nb2lzIMOpIGEgbWVzbWEgdmVyc8OjbyAobm8gbcOheGltbyB1bSBidWcgZml4\nLCBwb3IgZXhlbXBsbywgYnJhc2lsLmdvdi5wb3J0YWwgw6kgMS4xLjMgZSBv\nIGFycXVpdm8gZGUgdmVyc8OjbyDDqSAxLjEuMy4xKS4gUGFyYSBvcyBkZW1h\naXMgcGFjb3RlcywgcmVjb21lbmRhbW9zIGNvbXBhcmFyIGEgZGF0YSBkYSB0\nYWcgZG8gcGFjb3RlIGUgYSBkYXRhIG5vcyBjaGFuZ2Vsb2cgZW50cmUgdW1h\nIHZlcnPDo28gZSBvdXRyYSBwYXJhIGFkaXZpbmhhciBhIHZlcnPDo28gY29t\ncGF0w612ZWwuCg==\n", 
+    "download_url": "https://raw.githubusercontent.com/plonegovbr/brasil.gov.facetada/master/README.rst", 
+    "encoding": "base64", 
+    "git_url": "https://api.github.com/repos/plonegovbr/brasil.gov.facetada/git/blobs/119a28cd1dfd4585f7cce96278bfef2bbd47a20d", 
+    "html_url": "https://github.com/plonegovbr/brasil.gov.facetada/blob/master/README.rst", 
+    "name": "README.rst", 
+    "path": "README.rst", 
+    "sha": "119a28cd1dfd4585f7cce96278bfef2bbd47a20d", 
+    "size": 3610, 
+    "type": "file", 
+    "url": "https://api.github.com/repos/plonegovbr/brasil.gov.facetada/contents/README.rst?ref=master"
+}***************************************************************
+`.gov.br: Suporte a Busca Multifacetada`
+***************************************************************
+
+.. contents:: Conteúdo
+   :depth: 2
+
+Introdução
+-----------
+
+Este pacote provê a instalação de produto para busca multifacetada, customização de visão sumária e widget de ordenação para o `Portal Padrão <http://portalpadrao.plone.org.br>`_.
+
+Estado deste pacote
+---------------------
+
+O **brasil.gov.facetada** tem testes automatizados e, a cada alteração em seu
+código os testes são executados pelo serviço Travis.
+
+O estado atual dos testes pode ser visto nas imagens a seguir:
+
+.. image:: https://secure.travis-ci.org/plonegovbr/brasil.gov.facetada.png?branch=master
+    :target: http://travis-ci.org/plonegovbr/brasil.gov.facetada
+
+.. image:: https://coveralls.io/repos/plonegovbr/brasil.gov.facetada/badge.png?branch=master
+    :target: https://coveralls.io/r/plonegovbr/brasil.gov.facetada
+
+Instalação
+------------
+
+Para habilitar a instalação deste produto em um ambiente que utilize o
+buildout:
+
+1. Editar o arquivo buildout.cfg (ou outro arquivo de configuração) e
+   adicionar o pacote ``brasil.gov.facetada`` à lista de eggs da instalação::
+
+        [buildout]
+        ...
+        eggs =
+            brasil.gov.facetada
+
+2. Após alterar o arquivo de configuração é necessário executar
+   ''bin/buildout'', que atualizará sua instalação.
+
+3. Reinicie o Plone
+
+4. Acesse o painel de controle e instale o produto
+**.gov.br: Busca Multifacetada**.
+
+Rodando o buildout de uma tag antiga do pacote
+----------------------------------------------
+
+Para atender ao relato de ter vários jobs de integração contínua em pacotes brasil.gov.* (ver https://github.com/plonegovbr/portalpadrao.release/issues/11), no fim da seção extends do buildout.cfg de todos os pacotes brasil.gov.* temos a seguinte linha:
+
+.. code-block:: cfg
+
+    https://raw.githubusercontent.com/plonegovbr/portal.buildout/master/buildout.d/versions.cfg
+
+Hoje, esse arquivo contém sempre as versões pinadas de um release a ser lançado. Por esse motivo, quando é feito o checkout de uma tag mais antiga provavelmente você não conseguirá rodar o buildout. Dessa forma, após fazer o checkout de uma tag antiga, recomendamos que adicione, na última linha do extends, o arquivo de versões do IDG compatível com aquela tag, presente no repositório https://github.com/plonegovbr/portalpadrao.release/.
+
+Exemplo: você clonou o repositório do brasil.gov.portal na sua máquina, e deu checkout na tag 1.0.5. Ao editar o buildout.cfg, ficaria dessa forma, já com a última linha adicionada:
+
+.. code-block:: cfg
+
+    extends =
+        https://raw.github.com/collective/buildout.plonetest/master/test-4.3.x.cfg
+        https://raw.github.com/collective/buildout.plonetest/master/qa.cfg
+        http://downloads.plone.org.br/release/1.0.4/versions.cfg
+        https://raw.githubusercontent.com/plonegovbr/portal.buildout/master/buildout.d/versions.cfg
+        https://raw.githubusercontent.com/plone/plone.app.robotframework/master/versions.cfg
+        https://raw.githubusercontent.com/plonegovbr/portalpadrao.release/master/1.0.5/versions.cfg
+        
+Para saber qual arquivo de versões é compatível, no caso do brasil.gov.portal, é simples pois é a mesma versão (no máximo um bug fix, por exemplo, brasil.gov.portal é 1.1.3 e o arquivo de versão é 1.1.3.1). Para os demais pacotes, recomendamos comparar a data da tag do pacote e a data nos changelog entre uma versão e outra para adivinhar a versão compatível.

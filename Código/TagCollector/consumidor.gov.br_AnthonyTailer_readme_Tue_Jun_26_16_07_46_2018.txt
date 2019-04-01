@@ -1,0 +1,59 @@
+{
+    "_links": {
+        "git": "https://api.github.com/repos/AnthonyTailer/consumidor.gov.br/git/blobs/7577e24b9ccdc26590e82396a113692cd1b0c6f2", 
+        "html": "https://github.com/AnthonyTailer/consumidor.gov.br/blob/master/README.md", 
+        "self": "https://api.github.com/repos/AnthonyTailer/consumidor.gov.br/contents/README.md?ref=master"
+    }, 
+    "content": "IyBUcmFiYWxobyBGaW5hbCBkZSBQcm9qZXRvIGUgR2Vyw6puY2lhIGRlIEJh\nbmNvIGRlIERhZG9zCkRpc2NpcGxpbmEgZGUgUHJvamV0byBlIEdlcsOqbmNp\nYSBkZSBCYW5jbyBkZSBEYWRvcyB8IDXCsCBzZW1lc3RyZSBkbyBjdXJzbyBk\nZSBTaXN0ZW1hcyBkZSBJbmZvcm1hw6fDo28gVUZTTQojIyMjIEdydXBvOiBB\nbnRob255IFRhaWxlciwgTHVjYXMgTGltYSAoaHR0cDovL2dpdGh1Yi5jb20v\nbHVjYXNsaW9saSkKCiMgRGVzY3Jpw6fDo28KCiMjIyBPIHRyYWJhbGhvIMOp\nIGRpdmlkaWRvIGVtIDQgZXRhcGFzOgoKIyMjIyBDcmlhw6fDo28gZG8gQmFu\nY28gZGUgRGFkb3MKCiogRXNjb2xoZXIgdW1hIHBsYW5pbGhhIGNvbSAqKmRh\nZG9zIGFiZXJ0b3MqKiBkaXNwb25pYmlsaXphZG9zIG5hIFdlYi4KCS0gKipQ\nbGFuaWxoYSBlc2NvbGhpZGE6KiogUmVjbGFtYcOnw7VlcyBkbyBjb25zdW1p\nZG9yLmdvdi5icgoJLSAqKkRpc3BvbsOtdmVsIGVtOioqIGh0dHBzOi8vZ29v\nLmdsL2FpMEtDUiAgCiogQ3JpYXIgdW0gYmFuY28gZGUgZGFkb3Mgbm9ybWFs\naXphZG8gcXVlIHN1cG9ydGUgb3MgZGFkb3MgZGEgcGxhbmlsaGEuCiogQ3Jp\nYcOnw6NvIGRlIHVtYSBmZXJyYW1lbnRhIGRlIHZpc3VhbGl6YcOnw6NvIGRl\nIGRhZG9zLgoJLSBQb2RlbmRvIHNlciBkZXNlbnZvbHZpZGEgdXNhbmRvOgoJ\nCSsgUXVhbHF1ZXIgbGluZ3VhZ2VtIGRlIHByb2dyYW1hw6fDo28KCQkrIFF1\nYWxxdWVyIGZyYW1ld29yayBkZSBkZXNlbnZvbHZpbWVudG8KCQkrIFF1YWxx\ndWVyIHRpcG8gZGUgYXJxdWl0ZXR1cmEvcGFkcsOjbyBkZSBkZXNlbnZvbHZp\nbWVudG8KCQkrIFF1YWxxdWVyIHBsYXRhZm9ybWEgZGUgYWNlc3NvICh3ZWIs\nIERlc2t0b3AsIE1vYmlsZS4uKQoJCQkKIyMjIyBJbXBvcnRhw6fDo28gZG9z\nIGRhZG9zIGEgcGFydGlyIGRlIHVtYSBmb250ZSBkZSBkYWRvcwoKLSBBIGFw\nbGljYcOnw6NvIGRldmUgdGVyIHVtIHJlY3Vyc28gcXVlIHBlcm1pdGEgYSAq\nKmltcG9ydGHDp8OjbyBkZSBkYWRvcyoqIGEgcGFydGlyIGRlIHVtYSBmb250\nZSBkZSBkYWRvcy4KCSsgUG9kZW5kbyBzZXIgdW1hIHBsYW5pbGhhIG91IGFy\ncXVpdm8gdGV4dG8gZ2VyYWRvIGEgcGFydGlyIGRhIHBsYW5pbGhhLgoJKyBP\ncyBkYWRvcyBkZXZlbSBzZXIgaW1wb3J0YWRvcyBubyBiYW5jbyBkZSBkYWRv\ncyBkYSBhcGxpY2HDp8Ojby4KCiMjIyMgQWNlc3NvIGFvcyBkYWRvcyBhIHBh\ncnRpciBkZSBmb3JtdWzDoXJpb3MgZGUgY29uc3VsdGEKCi0gQSBhcGxpY2HD\np8OjbyBkZXZlIHRlciBmb3JtdWzDoXJpb3MgcXVlIHBlcm1pdGFtIG5hdmVn\nYXIgcGVsb3MgcmVnaXN0cm9zIGRlIGNhZGEgdW1hIGRhcyB0YWJlbGFzIGV4\naXN0ZW50ZXMuCi0gUGFyYSB0YWJlbGFzIHF1ZSBwb3NzdWVtIGNoYXZlcyBl\nc3RyYW5nZWlyYXMsIGRldmUtc2UgZXhpYmlyOgoJKyBBcyBjb2x1bmFzIGRh\nIHJlc3BlY3RpdmEgY2hhdmUgcHJpbcOhcmlhLCAqKk7Dg08qKiBvIHZhbG9y\nIGRhIGNoYXZlIGVzdHJhbmdlaXJhCgojIyMjIEFjZXNzbyBhb3MgZGFkb3Mg\nYSBwYXJ0aXIgZGUgcmVsYXTDs3Jpb3MgZ3LDoWZpY29zCgotIEEgYXBsaWNh\nw6fDo28gZGV2ZSBnZXJhciByZWxhdMOzcmlvcyBncsOhZmljb3MgYWNlc3Nh\nbmRvIGVzdGF0w61zdGljYXMgYSBwYXJ0aXIgZGFzIHRhYmVsYXMgZXhpc3Rl\nbnRlcy4KLSBQZWxvIG1lbm9zIDMgcmVsYXTDs3Jpb3MgZGV2ZW0gc2VyIGdl\ncmFkb3MKCSsgUGVsbyBtZW5vcyB1bSBkb3MgcmVsYXTDs3Jpb3MgZGV2ZSBz\nZXIgZGUgZGlzdHJpYnVpw6fDo28gZXNwYWNpYWwKCSsgUGFyYSBpc3NvLCDD\nqSBpbXBvcnRhbnRlIHF1ZSBvcyBkYWRvcyBwb3NzdWFtIGFsZ3VtIHRpcG8g\nZGUgcmVmZXLDqm5jaWEgZ2VvZ3LDoWZpY2EKLSBPcyByZWxhdMOzcmlvcyBk\nZXZlbSBwZXJtaXRpciBmaWx0cm9zCgkrIERldmUgc2VyIHBvc3PDrXZlbCBx\ndWUgbyBncsOhZmljbyBjb25kZW5zZSBhcGVuYXMgb3MgcmVnaXN0cm9zIHF1\nZSBzYXRpc2Zhw6dhbSBhbGd1bWEgY29uZGnDp8OjbyBkZSBmaWx0cm8KCg==\n", 
+    "download_url": "https://raw.githubusercontent.com/AnthonyTailer/consumidor.gov.br/master/README.md", 
+    "encoding": "base64", 
+    "git_url": "https://api.github.com/repos/AnthonyTailer/consumidor.gov.br/git/blobs/7577e24b9ccdc26590e82396a113692cd1b0c6f2", 
+    "html_url": "https://github.com/AnthonyTailer/consumidor.gov.br/blob/master/README.md", 
+    "name": "README.md", 
+    "path": "README.md", 
+    "sha": "7577e24b9ccdc26590e82396a113692cd1b0c6f2", 
+    "size": 2023, 
+    "type": "file", 
+    "url": "https://api.github.com/repos/AnthonyTailer/consumidor.gov.br/contents/README.md?ref=master"
+}# Trabalho Final de Projeto e Gerência de Banco de Dados
+Disciplina de Projeto e Gerência de Banco de Dados | 5° semestre do curso de Sistemas de Informação UFSM
+#### Grupo: Anthony Tailer, Lucas Lima (http://github.com/lucaslioli)
+
+# Descrição
+
+### O trabalho é dividido em 4 etapas:
+
+#### Criação do Banco de Dados
+
+* Escolher uma planilha com **dados abertos** disponibilizados na Web.
+	- **Planilha escolhida:** Reclamações do consumidor.gov.br
+	- **Disponível em:** https://goo.gl/ai0KCR  
+* Criar um banco de dados normalizado que suporte os dados da planilha.
+* Criação de uma ferramenta de visualização de dados.
+	- Podendo ser desenvolvida usando:
+		+ Qualquer linguagem de programação
+		+ Qualquer framework de desenvolvimento
+		+ Qualquer tipo de arquitetura/padrão de desenvolvimento
+		+ Qualquer plataforma de acesso (web, Desktop, Mobile..)
+			
+#### Importação dos dados a partir de uma fonte de dados
+
+- A aplicação deve ter um recurso que permita a **importação de dados** a partir de uma fonte de dados.
+	+ Podendo ser uma planilha ou arquivo texto gerado a partir da planilha.
+	+ Os dados devem ser importados no banco de dados da aplicação.
+
+#### Acesso aos dados a partir de formulários de consulta
+
+- A aplicação deve ter formulários que permitam navegar pelos registros de cada uma das tabelas existentes.
+- Para tabelas que possuem chaves estrangeiras, deve-se exibir:
+	+ As colunas da respectiva chave primária, **NÃO** o valor da chave estrangeira
+
+#### Acesso aos dados a partir de relatórios gráficos
+
+- A aplicação deve gerar relatórios gráficos acessando estatísticas a partir das tabelas existentes.
+- Pelo menos 3 relatórios devem ser gerados
+	+ Pelo menos um dos relatórios deve ser de distribuição espacial
+	+ Para isso, é importante que os dados possuam algum tipo de referência geográfica
+- Os relatórios devem permitir filtros
+	+ Deve ser possível que o gráfico condense apenas os registros que satisfaçam alguma condição de filtro
+

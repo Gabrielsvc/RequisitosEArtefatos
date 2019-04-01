@@ -1,0 +1,98 @@
+	url: https://api.github.com/repos/plonegovbr/brasil.gov.portlets/issues/18
+	repository_url: https://api.github.com/repos/plonegovbr/brasil.gov.portlets
+	labels_url: https://api.github.com/repos/plonegovbr/brasil.gov.portlets/issues/18/labels{/name}
+	comments_url: https://api.github.com/repos/plonegovbr/brasil.gov.portlets/issues/18/comments
+	events_url: https://api.github.com/repos/plonegovbr/brasil.gov.portlets/issues/18/events
+	html_url: https://github.com/plonegovbr/brasil.gov.portlets/pull/18
+	id: 274325753
+	number: 18
+	title: Python 3 compatibility
+		login: hvelarde
+		id: 341393
+		avatar_url: https://avatars3.githubusercontent.com/u/341393?v=4
+		gravatar_id: 
+		url: https://api.github.com/users/hvelarde
+		html_url: https://github.com/hvelarde
+		followers_url: https://api.github.com/users/hvelarde/followers
+		following_url: https://api.github.com/users/hvelarde/following{/other_user}
+		gists_url: https://api.github.com/users/hvelarde/gists{/gist_id}
+		starred_url: https://api.github.com/users/hvelarde/starred{/owner}{/repo}
+		subscriptions_url: https://api.github.com/users/hvelarde/subscriptions
+		organizations_url: https://api.github.com/users/hvelarde/orgs
+		repos_url: https://api.github.com/users/hvelarde/repos
+		events_url: https://api.github.com/users/hvelarde/events{/privacy}
+		received_events_url: https://api.github.com/users/hvelarde/received_events
+		type: User
+		site_admin: False
+	labels: [{'id': 142846706, 'url': 'https://api.github.com/repos/plonegovbr/brasil.gov.portlets/labels/enhancement', 'name': 'enhancement', 'color': '84b6eb', 'default': True}, {'id': 142846707, 'url': 'https://api.github.com/repos/plonegovbr/brasil.gov.portlets/labels/help%20wanted', 'name': 'help wanted', 'color': '159818', 'default': True}, {'id': 465487193, 'url': 'https://api.github.com/repos/plonegovbr/brasil.gov.portlets/labels/in%20progress', 'name': 'in progress', 'color': 'ededed', 'default': False}]
+	state: open
+	locked: False
+		login: caduvieira
+		id: 3831408
+		avatar_url: https://avatars3.githubusercontent.com/u/3831408?v=4
+		gravatar_id: 
+		url: https://api.github.com/users/caduvieira
+		html_url: https://github.com/caduvieira
+		followers_url: https://api.github.com/users/caduvieira/followers
+		following_url: https://api.github.com/users/caduvieira/following{/other_user}
+		gists_url: https://api.github.com/users/caduvieira/gists{/gist_id}
+		starred_url: https://api.github.com/users/caduvieira/starred{/owner}{/repo}
+		subscriptions_url: https://api.github.com/users/caduvieira/subscriptions
+		organizations_url: https://api.github.com/users/caduvieira/orgs
+		repos_url: https://api.github.com/users/caduvieira/repos
+		events_url: https://api.github.com/users/caduvieira/events{/privacy}
+		received_events_url: https://api.github.com/users/caduvieira/received_events
+		type: User
+		site_admin: False
+	assignees: [{'login': 'caduvieira', 'id': 3831408, 'avatar_url': 'https://avatars3.githubusercontent.com/u/3831408?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/caduvieira', 'html_url': 'https://github.com/caduvieira', 'followers_url': 'https://api.github.com/users/caduvieira/followers', 'following_url': 'https://api.github.com/users/caduvieira/following{/other_user}', 'gists_url': 'https://api.github.com/users/caduvieira/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/caduvieira/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/caduvieira/subscriptions', 'organizations_url': 'https://api.github.com/users/caduvieira/orgs', 'repos_url': 'https://api.github.com/users/caduvieira/repos', 'events_url': 'https://api.github.com/users/caduvieira/events{/privacy}', 'received_events_url': 'https://api.github.com/users/caduvieira/received_events', 'type': 'User', 'site_admin': False}]
+	milestone: None
+	comments: 0
+	created_at: 2017-11-15T22:22:12Z
+	updated_at: 2017-11-17T19:15:16Z
+	closed_at: None
+	author_association: OWNER
+		url: https://api.github.com/repos/plonegovbr/brasil.gov.portlets/pulls/18
+		html_url: https://github.com/plonegovbr/brasil.gov.portlets/pull/18
+		diff_url: https://github.com/plonegovbr/brasil.gov.portlets/pull/18.diff
+		patch_url: https://github.com/plonegovbr/brasil.gov.portlets/pull/18.patch
+	body: 
+	url: https://api.github.com/repos/plonegovbr/brasil.gov.portlets/issues/13
+	repository_url: https://api.github.com/repos/plonegovbr/brasil.gov.portlets
+	labels_url: https://api.github.com/repos/plonegovbr/brasil.gov.portlets/issues/13/labels{/name}
+	comments_url: https://api.github.com/repos/plonegovbr/brasil.gov.portlets/issues/13/comments
+	events_url: https://api.github.com/repos/plonegovbr/brasil.gov.portlets/issues/13/events
+	html_url: https://github.com/plonegovbr/brasil.gov.portlets/issues/13
+	id: 184273220
+	number: 13
+	title: Ao navegar por uma coleção de notícias quando clicamos nas setas de movimentação sempre salta uma imagem passando para a posterior à aquela que deveria ser a próxima
+		login: idgserpro
+		id: 8203476
+		avatar_url: https://avatars3.githubusercontent.com/u/8203476?v=4
+		gravatar_id: 
+		url: https://api.github.com/users/idgserpro
+		html_url: https://github.com/idgserpro
+		followers_url: https://api.github.com/users/idgserpro/followers
+		following_url: https://api.github.com/users/idgserpro/following{/other_user}
+		gists_url: https://api.github.com/users/idgserpro/gists{/gist_id}
+		starred_url: https://api.github.com/users/idgserpro/starred{/owner}{/repo}
+		subscriptions_url: https://api.github.com/users/idgserpro/subscriptions
+		organizations_url: https://api.github.com/users/idgserpro/orgs
+		repos_url: https://api.github.com/users/idgserpro/repos
+		events_url: https://api.github.com/users/idgserpro/events{/privacy}
+		received_events_url: https://api.github.com/users/idgserpro/received_events
+		type: User
+		site_admin: False
+	labels: [{'id': 142846704, 'url': 'https://api.github.com/repos/plonegovbr/brasil.gov.portlets/labels/bug', 'name': 'bug', 'color': 'fc2929', 'default': True}]
+	state: open
+	locked: False
+	assignee: None
+	assignees: []
+	milestone: None
+	comments: 0
+	created_at: 2016-10-20T16:08:44Z
+	updated_at: 2017-02-06T18:06:38Z
+	closed_at: None
+	author_association: OWNER
+	body: Ao navegar por uma coleção de notícias quando clicamos nas setas de movimentação sempre salta uma imagem passando para a posterior à aquela que deveria ser a próxima.
+![erro](https://cloud.githubusercontent.com/assets/8203476/19568018/afdb55ae-96ce-11e6-8d19-6ff0bb710b31.png)
+
